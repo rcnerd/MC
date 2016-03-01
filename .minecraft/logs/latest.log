@@ -602,3 +602,9 @@ Caused by: java.lang.IllegalArgumentException: Cannot get property aro{name=faci
 [16:21:14] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
 [16:21:14] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
 [16:21:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2435ms behind, skipping 48 tick(s)
+[16:23:39] [Server thread/INFO]: Stopping server
+[16:23:39] [Server thread/INFO]: Saving players
+[16:23:39] [Server thread/INFO]: Saving worlds
+[16:23:39] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[16:23:39] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[16:23:39] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
