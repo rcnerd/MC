@@ -1,0 +1,9 @@
+[14:22:36] [Client thread/INFO]: Setting user: rcnerd
+[14:22:36] [Client thread/INFO]: (Session ID is token:09eef9f3a58e42ce95b14e522a40c71b:2b14785b313c4c35ba883f2e95b9dcdd)
+[14:22:37] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:22:37] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633.zip, Misa Patch Les 1.8.zip
+[14:22:38] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:22:38] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:22:38] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:22:38] [Thread-6/INFO]: OpenAL initialized.
+[14:22:39] [Sound Library Loader/INFO]: Sound engine started

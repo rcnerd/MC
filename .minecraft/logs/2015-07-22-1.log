@@ -1,0 +1,133 @@
+[09:32:55] [Client thread/INFO]: Setting user: rcnerd
+[09:32:55] [Client thread/INFO]: (Session ID is token:c857ccd86d884904b2c44a785d4196f6:2b14785b313c4c35ba883f2e95b9dcdd)
+[09:32:56] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:32:56] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[09:32:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:32:57] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[09:32:57] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:32:57] [Thread-6/INFO]: OpenAL initialized.
+[09:32:57] [Sound Library Loader/INFO]: Sound engine started
+[09:33:07] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[09:33:23] [Server thread/INFO]: Starting integrated minecraft server version 1.8.7
+[09:33:23] [Server thread/INFO]: Generating keypair
+[09:33:23] [Server thread/INFO]: Preparing start region for level 0
+[09:33:24] [Server thread/INFO]: Preparing spawn area: 84%
+[09:33:24] [Server thread/INFO]: Changing view distance to 16, from 10
+[09:33:25] [Server thread/INFO]: rcnerd[local:E:6cc49cda] logged in with entity id 776 at (56.53200987385935, 68.0, 167.78822409063932)
+[09:33:25] [Server thread/INFO]: rcnerd joined the game
+[09:33:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3021ms behind, skipping 60 tick(s)
+[09:34:25] [Server thread/INFO]: Saving and pausing game...
+[09:34:25] [Server thread/INFO]: Saving chunks for level 'My redstone world'/Overworld
+[09:34:25] [Server thread/INFO]: Saving chunks for level 'My redstone world'/Nether
+[09:34:25] [Server thread/INFO]: Saving chunks for level 'My redstone world'/The End
+[09:34:26] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[09:34:26] [Server thread/INFO]: Stopping server
+[09:34:26] [Server thread/INFO]: Saving players
+[09:34:26] [Server thread/INFO]: Saving worlds
+[09:34:26] [Server thread/INFO]: Saving chunks for level 'My redstone world'/Overworld
+[09:34:26] [Server thread/INFO]: Saving chunks for level 'My redstone world'/Nether
+[09:34:26] [Server thread/INFO]: Saving chunks for level 'My redstone world'/The End
+[09:34:27] [Client thread/INFO]: SoundSystem shutting down...
+[09:34:27] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:34:27] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:34:27] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[09:34:27] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:34:27] [Thread-10/INFO]: OpenAL initialized.
+[09:34:28] [Sound Library Loader/INFO]: Sound engine started
+[09:34:36] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:38] [Client thread/ERROR]: @ Post render
+[09:34:38] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:39] [Client thread/ERROR]: @ Post render
+[09:34:39] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:39] [Client thread/ERROR]: @ Post render
+[09:34:39] [Client thread/ERROR]: 1280: Invalid enum
+[09:34:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:34:39] [Client thread/ERROR]: @ Post render
+[09:34:39] [Client thread/ERROR]: 1280: Invalid enum

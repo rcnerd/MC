@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "rcnerd": {
+      "name": "rcnerd",
+      "javaArgs": "-Xmx6G -Xms6G"
+    }
+  },
+  "selectedProfile": "rcnerd",
+  "clientToken": "c7f96ca9-33f9-4f73-a751-7b75f4485c1f",
+  "authenticationDatabase": {
+    "2b14785b313c4c35ba883f2e95b9dcdd": {
+      "displayName": "rcnerd",
+      "accessToken": "fc49ffcb67b3490b97dae319be0543a6",
+      "userid": "a09f09002b9245fc8c0b7da6f8cd6911",
+      "uuid": "2b14785b-313c-4c35-ba88-3f2e95b9dcdd",
+      "username": "hunter.g.wells@gmail.com"
+    }
+  },
+  "selectedUser": "2b14785b313c4c35ba883f2e95b9dcdd",
+  "launcherVersion": {
+    "name": "1.6.51",
+    "format": 18
+  }
+}

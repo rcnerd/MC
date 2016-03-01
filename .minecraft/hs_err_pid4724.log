@@ -1,0 +1,300 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00000000553e0cad, pid=4724, tid=3968
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_25-b18) (build 1.8.0_25-b18)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.25-b02 mixed mode windows-amd64 compressed oops)
+# Problematic frame:
+# V  [jvm.dll+0x70cad]
+#
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000000022a2800):  JavaThread "Client thread" [_thread_in_vm, id=3968, stack(0x00000000021a0000,0x00000000022a0000)]
+
+siginfo: ExceptionCode=0xc0000005, writing address 0x0000000000000000
+
+Registers:
+RAX=0x0000000000000000, RBX=0x0000000000000000, RCX=0x000000001eb78240, RDX=0x000000000000002f
+RSP=0x00000000022998d0, RBP=0x00000000022999d0, RSI=0x000000001e0d1ee0, RDI=0x000000000219ecc8
+R8 =0x0000000000000000, R9 =0x000000001eb78240, R10=0x0000000020b70028, R11=0x000000001eb78240
+R12=0x00000000022a2800, R13=0x0000000002197ff0, R14=0x000000001eb78240, R15=0x000000001eb74190
+RIP=0x00000000553e0cad, EFLAGS=0x0000000000010212
+
+Top of Stack: (sp=0x00000000022998d0)
+0x00000000022998d0:   0000000000000000 000000001e0d1ee0
+0x00000000022998e0:   00000000022999d0 0000000000000000
+0x00000000022998f0:   000000000219ecd0 0000000000000000
+0x0000000002299900:   0000000000000000 0000000002299920
+0x0000000002299910:   0000000001000001 00000000022a2800
+0x0000000002299920:   000000001ef7e250 00000007c01a51f0
+0x0000000002299930:   000000001ef7e250 000000001eb78240
+0x0000000002299940:   0000000000010388 000000001eb7c178
+0x0000000002299950:   00000000022a2800 000000000219ecc8
+0x0000000002299960:   0000000000000058 000003ff00000000
+0x0000000002299970:   0000000000320101 000000001ef7e250
+0x0000000002299980:   000000001e0d1ee0 0000000000000000
+0x0000000002299990:   0000000000000000 ffffffff38000000
+0x00000000022999a0:   00000000022a2800 0000000000000000
+0x00000000022999b0:   0000000000000007 00000007c0000f28
+0x00000000022999c0:   0000000000000000 0000000000000000 
+
+Instructions: (pc=0x00000000553e0cad)
+0x00000000553e0c8d:   24 70 e8 2c a0 0b 00 ba 2f 00 00 00 48 8b c8 4c
+0x00000000553e0c9d:   8b f0 ff 15 23 39 54 00 ba 2f 00 00 00 49 8b ce
+0x00000000553e0cad:   88 18 ff 15 63 38 54 00 48 85 c0 74 1c 66 0f 1f
+0x00000000553e0cbd:   44 00 00 ba 2f 00 00 00 49 8b ce c6 00 2e ff 15 
+
+
+Register to memory mapping:
+
+RAX=0x0000000000000000 is an unknown value
+RBX=0x0000000000000000 is an unknown value
+RCX=0x000000001eb78240 is an unknown value
+RDX=0x000000000000002f is an unknown value
+RSP=0x00000000022998d0 is pointing into the stack for thread: 0x00000000022a2800
+RBP=0x00000000022999d0 is pointing into the stack for thread: 0x00000000022a2800
+RSI=0x000000001e0d1ee0 is an unknown value
+RDI=0x000000000219ecc8 is an unknown value
+R8 =0x0000000000000000 is an unknown value
+R9 =0x000000001eb78240 is an unknown value
+R10=0x0000000020b70028 is pointing into metadata
+R11=0x000000001eb78240 is an unknown value
+R12=0x00000000022a2800 is a thread
+R13=0x0000000002197ff0 is an unknown value
+R14=0x000000001eb78240 is an unknown value
+R15=0x000000001eb74190 is an unknown value
+
+
+Stack: [0x00000000021a0000,0x00000000022a0000],  sp=0x00000000022998d0,  free space=998k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x70cad]
+V  [jvm.dll+0x180f11]
+V  [jvm.dll+0x1812ab]
+C  [java.dll+0x1e58]
+C  0x00000000026aac5d
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+J 830  java.lang.ClassLoader.defineClass1(Ljava/lang/String;[BIILjava/security/ProtectionDomain;Ljava/lang/String;)Ljava/lang/Class; (0 bytes) @ 0x00000000026aabdf [0x00000000026aab40+0x9f]
+J 810 C1 java.lang.ClassLoader.defineClass(Ljava/lang/String;[BIILjava/security/ProtectionDomain;)Ljava/lang/Class; (43 bytes) @ 0x00000000026a16ec [0x00000000026a1100+0x5ec]
+J 652 C1 java.net.URLClassLoader.defineClass(Ljava/lang/String;Lsun/misc/Resource;)Ljava/lang/Class; (224 bytes) @ 0x00000000026351ec [0x0000000002633380+0x1e6c]
+J 582 C1 java.net.URLClassLoader$1.run()Ljava/lang/Class; (73 bytes) @ 0x00000000025e9d04 [0x00000000025e9a20+0x2e4]
+J 581 C1 java.net.URLClassLoader$1.run()Ljava/lang/Object; (5 bytes) @ 0x00000000025e968c [0x00000000025e9600+0x8c]
+v  ~StubRoutines::call_stub
+J 580  java.security.AccessController.doPrivileged(Ljava/security/PrivilegedExceptionAction;Ljava/security/AccessControlContext;)Ljava/lang/Object; (0 bytes) @ 0x00000000025e92a6 [0x00000000025e9240+0x66]
+J 532 C1 java.net.URLClassLoader.findClass(Ljava/lang/String;)Ljava/lang/Class; (29 bytes) @ 0x00000000025ca7f4 [0x00000000025ca660+0x194]
+J 382 C1 java.lang.ClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class; (122 bytes) @ 0x000000000257f7f4 [0x000000000257ee80+0x974]
+J 562 C1 sun.misc.Launcher$AppClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class; (40 bytes) @ 0x00000000025df1cc [0x00000000025ded80+0x44c]
+J 561 C1 java.lang.ClassLoader.loadClass(Ljava/lang/String;)Ljava/lang/Class; (7 bytes) @ 0x00000000025dea0c [0x00000000025de900+0x10c]
+v  ~StubRoutines::call_stub
+J 830  java.lang.ClassLoader.defineClass1(Ljava/lang/String;[BIILjava/security/ProtectionDomain;Ljava/lang/String;)Ljava/lang/Class; (0 bytes) @ 0x00000000026aabdf [0x00000000026aab40+0x9f]
+J 810 C1 java.lang.ClassLoader.defineClass(Ljava/lang/String;[BIILjava/security/ProtectionDomain;)Ljava/lang/Class; (43 bytes) @ 0x00000000026a16ec [0x00000000026a1100+0x5ec]
+J 652 C1 java.net.URLClassLoader.defineClass(Ljava/lang/String;Lsun/misc/Resource;)Ljava/lang/Class; (224 bytes) @ 0x00000000026351ec [0x0000000002633380+0x1e6c]
+J 582 C1 java.net.URLClassLoader$1.run()Ljava/lang/Class; (73 bytes) @ 0x00000000025e9d04 [0x00000000025e9a20+0x2e4]
+J 581 C1 java.net.URLClassLoader$1.run()Ljava/lang/Object; (5 bytes) @ 0x00000000025e968c [0x00000000025e9600+0x8c]
+v  ~StubRoutines::call_stub
+J 580  java.security.AccessController.doPrivileged(Ljava/security/PrivilegedExceptionAction;Ljava/security/AccessControlContext;)Ljava/lang/Object; (0 bytes) @ 0x00000000025e92a6 [0x00000000025e9240+0x66]
+J 532 C1 java.net.URLClassLoader.findClass(Ljava/lang/String;)Ljava/lang/Class; (29 bytes) @ 0x00000000025ca7f4 [0x00000000025ca660+0x194]
+J 382 C1 java.lang.ClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class; (122 bytes) @ 0x000000000257f7f4 [0x000000000257ee80+0x974]
+J 562 C1 sun.misc.Launcher$AppClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class; (40 bytes) @ 0x00000000025df1cc [0x00000000025ded80+0x44c]
+J 561 C1 java.lang.ClassLoader.loadClass(Ljava/lang/String;)Ljava/lang/Class; (7 bytes) @ 0x00000000025dea0c [0x00000000025de900+0x10c]
+v  ~StubRoutines::call_stub
+j  ave.<init>(Lbao;)V+525
+j  net.minecraft.client.main.Main.main([Ljava/lang/String;)V+1065
+v  ~StubRoutines::call_stub
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x000000001ef5e000 JavaThread "Snooper Timer" daemon [_thread_blocked, id=6916, stack(0x0000000020a50000,0x0000000020b50000)]
+  0x000000001df68000 JavaThread "Service Thread" daemon [_thread_blocked, id=3896, stack(0x000000001e8a0000,0x000000001e9a0000)]
+  0x000000001ded8800 JavaThread "C1 CompilerThread3" daemon [_thread_blocked, id=6276, stack(0x000000001e7a0000,0x000000001e8a0000)]
+  0x000000001ded5800 JavaThread "C2 CompilerThread2" daemon [_thread_blocked, id=4268, stack(0x000000001e6a0000,0x000000001e7a0000)]
+  0x000000001deca800 JavaThread "C2 CompilerThread1" daemon [_thread_blocked, id=6088, stack(0x000000001e5a0000,0x000000001e6a0000)]
+  0x000000001dec8800 JavaThread "C2 CompilerThread0" daemon [_thread_blocked, id=2916, stack(0x000000001e4a0000,0x000000001e5a0000)]
+  0x000000001dec7000 JavaThread "Attach Listener" daemon [_thread_blocked, id=2404, stack(0x000000001e3a0000,0x000000001e4a0000)]
+  0x000000001dec6800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=6588, stack(0x000000001e2a0000,0x000000001e3a0000)]
+  0x000000000239b000 JavaThread "Finalizer" daemon [_thread_blocked, id=6244, stack(0x000000001dda0000,0x000000001dea0000)]
+  0x000000001bebc800 JavaThread "Reference Handler" daemon [_thread_blocked, id=6992, stack(0x000000001dca0000,0x000000001dda0000)]
+=>0x00000000022a2800 JavaThread "Client thread" [_thread_in_vm, id=3968, stack(0x00000000021a0000,0x00000000022a0000)]
+
+Other Threads:
+  0x000000001beb5800 VMThread [stack: 0x000000001dba0000,0x000000001dca0000] [id=6428]
+  0x000000001df6b800 WatcherThread [stack: 0x000000001e9a0000,0x000000001eaa0000] [id=2256]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap:
+ PSYoungGen      total 1223168K, used 178037K [0x000000076ab00000, 0x00000007c0000000, 0x00000007c0000000)
+  eden space 1048576K, 16% used [0x000000076ab00000,0x00000007758dd480,0x00000007aab00000)
+  from space 174592K, 0% used [0x00000007b5580000,0x00000007b5580000,0x00000007c0000000)
+  to   space 174592K, 0% used [0x00000007aab00000,0x00000007aab00000,0x00000007b5580000)
+ ParOldGen       total 2796544K, used 0K [0x00000006c0000000, 0x000000076ab00000, 0x000000076ab00000)
+  object space 2796544K, 0% used [0x00000006c0000000,0x00000006c0000000,0x000000076ab00000)
+ Metaspace       used 13989K, capacity 14106K, committed 14336K, reserved 1062912K
+  class space    used 1668K, capacity 1687K, committed 1792K, reserved 1048576K
+
+Card table byte_map: [0x0000000011760000,0x0000000011f70000] byte_map_base: 0x000000000e160000
+
+Marking Bits: (ParMarkBitMap*) 0x0000000055b4d490
+ Begin Bits: [0x0000000012cd0000, 0x0000000016cd0000)
+ End Bits:   [0x0000000016cd0000, 0x000000001acd0000)
+
+Polling page: 0x0000000000950000
+
+CodeCache: size=245760Kb used=3804Kb max_used=3824Kb free=241955Kb
+ bounds [0x00000000023a0000, 0x0000000002760000, 0x00000000113a0000]
+ total_blobs=1422 nmethods=1036 adapters=300
+ compilation: enabled
+
+Compilation events (10 events):
+Event: 0.725 Thread 0x000000001ded8800 1033       1       java.util.concurrent.locks.AbstractQueuedSynchronizer::getState (5 bytes)
+Event: 0.725 Thread 0x000000001ded8800 nmethod 1033 0x0000000002752350 code [0x00000000027524a0, 0x00000000027525b0]
+Event: 0.728 Thread 0x000000001ded8800 1034       3       java.security.MessageDigest::update (45 bytes)
+Event: 0.728 Thread 0x000000001ded8800 nmethod 1034 0x0000000002751c90 code [0x0000000002751e20, 0x0000000002752208]
+Event: 0.729 Thread 0x000000001ded8800 1035       1       sun.security.util.ManifestEntryVerifier::getEntry (5 bytes)
+Event: 0.729 Thread 0x000000001ded8800 nmethod 1035 0x00000000027519d0 code [0x0000000002751b20, 0x0000000002751c30]
+Event: 0.729 Thread 0x000000001ded8800 1036       3       java.util.jar.JarVerifier$VerifierStream::read (103 bytes)
+Event: 0.729 Thread 0x000000001ded8800 nmethod 1036 0x0000000002751250 code [0x00000000027513e0, 0x0000000002751848]
+Event: 0.729 Thread 0x000000001ded8800 1037       3       java.lang.reflect.Constructor::newInstance (87 bytes)
+Event: 0.730 Thread 0x000000001ded8800 nmethod 1037 0x0000000002750710 code [0x0000000002750900, 0x0000000002751008]
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (10 events):
+Event: 0.283 Thread 0x00000000022a2800 Uncommon trap: reason=bimorphic action=maybe_recompile pc=0x000000000252d588 method=java.util.HashMap.getNode(ILjava/lang/Object;)Ljava/util/HashMap$Node; @ 126
+Event: 0.283 Thread 0x00000000022a2800 Uncommon trap: reason=bimorphic action=maybe_recompile pc=0x000000000251b2a0 method=java.util.HashMap.getNode(ILjava/lang/Object;)Ljava/util/HashMap$Node; @ 126
+Event: 0.470 Thread 0x00000000022a2800 Uncommon trap: reason=unreached action=reinterpret pc=0x0000000002652ab0 method=java.util.HashMap.entrySet()Ljava/util/Set; @ 6
+Event: 0.552 Thread 0x00000000022a2800 Uncommon trap: reason=unreached action=reinterpret pc=0x000000000250ebc4 method=java.lang.AbstractStringBuilder.append(Ljava/lang/String;)Ljava/lang/AbstractStringBuilder; @ 1
+Event: 0.552 Thread 0x00000000022a2800 Uncommon trap: reason=unreached action=reinterpret pc=0x000000000250e388 method=java.lang.AbstractStringBuilder.append(Ljava/lang/String;)Ljava/lang/AbstractStringBuilder; @ 1
+Event: 0.562 Thread 0x00000000022a2800 Uncommon trap: reason=unreached action=reinterpret pc=0x00000000026674b0 method=java.util.HashMap$HashIterator.<init>(Ljava/util/HashMap;)V @ 38
+Event: 0.626 Thread 0x00000000022a2800 Uncommon trap: reason=unreached action=reinterpret pc=0x0000000002667010 method=java.util.HashMap$HashIterator.<init>(Ljava/util/HashMap;)V @ 38
+Event: 0.664 Thread 0x00000000022a2800 Uncommon trap: reason=null_check action=make_not_entrant pc=0x000000000251f778 method=java.lang.StringCoding.deref(Ljava/lang/ThreadLocal;)Ljava/lang/Object; @ 4
+Event: 0.721 Thread 0x00000000022a2800 Uncommon trap: reason=unreached action=reinterpret pc=0x000000000251e75c method=java.lang.ThreadLocal$ThreadLocalMap.getEntry(Ljava/lang/ThreadLocal;)Ljava/lang/ThreadLocal$ThreadLocalMap$Entry; @ 29
+Event: 0.722 Thread 0x00000000022a2800 Uncommon trap: reason=unreached action=reinterpret pc=0x0000000002522acc method=java.lang.ThreadLocal$ThreadLocalMap.getEntry(Ljava/lang/ThreadLocal;)Ljava/lang/ThreadLocal$ThreadLocalMap$Entry; @ 29
+
+Internal exceptions (10 events):
+Event: 0.722 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x000000077332e098) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.723 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x0000000773334f28) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.723 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x000000077333d7b8) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.724 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x00000007733445a8) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.726 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x000000077334d728) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.726 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x00000007733570f0) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.728 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x000000077336b340) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.728 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x000000077336ed38) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.729 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x0000000773374418) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+Event: 0.729 Thread 0x00000000022a2800 Exception <a 'java/security/PrivilegedActionException'> (0x0000000773376cb8) thrown at [D:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u25\1677\hotspot\src\share\vm\prims\jvm.cpp, line 1312]
+
+Events (10 events):
+Event: 0.726 loading class java/io/FileOutputStream$1 done
+Event: 0.727 Thread 0x000000001f398000 Thread exited: 0x000000001f398000
+Event: 0.728 loading class bpn
+Event: 0.728 loading class bpn done
+Event: 0.728 loading class bd
+Event: 0.728 loading class bd done
+Event: 0.729 loading class h
+Event: 0.729 loading class h done
+Event: 0.729 loading class j
+Event: 0.729 loading class j done
+
+
+Dynamic libraries:
+0x00007ff762320000 - 0x00007ff762354000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\javaw.exe
+0x00007ffe98b80000 - 0x00007ffe98d41000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffe98640000 - 0x00007ffe986ed000 	C:\WINDOWS\system32\KERNEL32.DLL
+0x00007ffe96070000 - 0x00007ffe9624d000 	C:\WINDOWS\system32\KERNELBASE.dll
+0x00007ffe963b0000 - 0x00007ffe96456000 	C:\WINDOWS\system32\ADVAPI32.dll
+0x00007ffe985a0000 - 0x00007ffe9863d000 	C:\WINDOWS\system32\msvcrt.dll
+0x00007ffe96620000 - 0x00007ffe9667b000 	C:\WINDOWS\system32\sechost.dll
+0x00007ffe96740000 - 0x00007ffe96866000 	C:\WINDOWS\system32\RPCRT4.dll
+0x00007ffe96250000 - 0x00007ffe9639e000 	C:\WINDOWS\system32\USER32.dll
+0x00007ffe989b0000 - 0x00007ffe98b36000 	C:\WINDOWS\system32\GDI32.dll
+0x00007ffe88e30000 - 0x00007ffe890a4000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10240.16384_none_f41f7b285750ef43\COMCTL32.dll
+0x00007ffe98b40000 - 0x00007ffe98b76000 	C:\WINDOWS\system32\IMM32.DLL
+0x00007ffe96af0000 - 0x00007ffe96c4c000 	C:\WINDOWS\system32\MSCTF.dll
+0x0000000055bd0000 - 0x0000000055ca2000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\msvcr100.dll
+0x0000000055370000 - 0x0000000055bca000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\server\jvm.dll
+0x00007ffe963a0000 - 0x00007ffe963a8000 	C:\WINDOWS\system32\PSAPI.DLL
+0x00007ffe8fd50000 - 0x00007ffe8fd59000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffe93590000 - 0x00007ffe935b3000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffe96460000 - 0x00007ffe964c9000 	C:\WINDOWS\system32\WS2_32.dll
+0x00007ffe98590000 - 0x00007ffe98598000 	C:\WINDOWS\system32\NSI.dll
+0x00000000008e0000 - 0x000000000090c000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ffe95eb0000 - 0x00007ffe95ef4000 	C:\WINDOWS\system32\cfgmgr32.dll
+0x00007ffe93f20000 - 0x00007ffe93f47000 	C:\WINDOWS\SYSTEM32\DEVOBJ.dll
+0x0000000055360000 - 0x000000005536f000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\verify.dll
+0x0000000055330000 - 0x0000000055358000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\java.dll
+0x0000000055310000 - 0x0000000055326000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\zip.dll
+0x00007ffe96f90000 - 0x00007ffe984b1000 	C:\WINDOWS\system32\SHELL32.dll
+0x00007ffe95820000 - 0x00007ffe95e49000 	C:\WINDOWS\system32\windows.storage.dll
+0x00007ffe96870000 - 0x00007ffe96aec000 	C:\WINDOWS\system32\combase.dll
+0x00007ffe96cd0000 - 0x00007ffe96d21000 	C:\WINDOWS\system32\shlwapi.dll
+0x00007ffe95640000 - 0x00007ffe9564f000 	C:\WINDOWS\system32\kernel.appcore.dll
+0x00007ffe95f00000 - 0x00007ffe95fb3000 	C:\WINDOWS\system32\shcore.dll
+0x00007ffe955b0000 - 0x00007ffe955fa000 	C:\WINDOWS\system32\powrprof.dll
+0x00007ffe95600000 - 0x00007ffe95613000 	C:\WINDOWS\system32\profapi.dll
+0x0000000055300000 - 0x000000005530d000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\management.dll
+0x00000000552e0000 - 0x00000000552fa000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\net.dll
+0x00007ffe94e20000 - 0x00007ffe94e7d000 	C:\WINDOWS\system32\mswsock.dll
+0x00000000552c0000 - 0x00000000552d1000 	C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25\bin\nio.dll
+0x00007ffe89150000 - 0x00007ffe89165000 	C:\WINDOWS\system32\napinsp.dll
+0x00007ffe89170000 - 0x00007ffe8918a000 	C:\WINDOWS\system32\pnrpnsp.dll
+0x00007ffe92c80000 - 0x00007ffe92c98000 	C:\WINDOWS\system32\NLAapi.dll
+0x00007ffe94c00000 - 0x00007ffe94ca8000 	C:\WINDOWS\SYSTEM32\DNSAPI.dll
+0x00007ffe89190000 - 0x00007ffe8919d000 	C:\WINDOWS\System32\winrnr.dll
+0x00007ffe916c0000 - 0x00007ffe916f8000 	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+0x00007ffe91750000 - 0x00007ffe9175b000 	C:\WINDOWS\SYSTEM32\WINNSI.DLL
+0x00007ffe8f120000 - 0x00007ffe8f188000 	C:\WINDOWS\System32\fwpuclnt.dll
+0x00007ffe95440000 - 0x00007ffe95468000 	C:\WINDOWS\SYSTEM32\bcrypt.dll
+0x00007ffe8daf0000 - 0x00007ffe8dafa000 	C:\Windows\System32\rasadhlp.dll
+0x0000000180000000 - 0x0000000180053000 	C:\Users\Hunter Wells\AppData\Roaming\.minecraft\versions\1.8.8\1.8.8-natives-24580861872670\lwjgl64.dll
+0x00007ffe831c0000 - 0x00007ffe832e8000 	C:\WINDOWS\SYSTEM32\OPENGL32.dll
+0x00007ffe8e700000 - 0x00007ffe8e70a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffe83050000 - 0x00007ffe83146000 	C:\WINDOWS\SYSTEM32\DDRAW.dll
+0x00007ffe83150000 - 0x00007ffe8317e000 	C:\WINDOWS\SYSTEM32\GLU32.dll
+0x00007ffe82fd0000 - 0x00007ffe82fd8000 	C:\WINDOWS\SYSTEM32\DCIMAN32.dll
+0x00007ffe94e80000 - 0x00007ffe94e97000 	C:\WINDOWS\SYSTEM32\CRYPTSP.dll
+0x00007ffe94ad0000 - 0x00007ffe94b03000 	C:\WINDOWS\system32\rsaenh.dll
+0x00007ffe94cb0000 - 0x00007ffe94ccf000 	C:\WINDOWS\SYSTEM32\USERENV.dll
+0x00007ffe953d0000 - 0x00007ffe9543b000 	C:\WINDOWS\system32\bcryptprimitives.dll
+0x00007ffe94ff0000 - 0x00007ffe94ffb000 	C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+0x00007ffe8ff80000 - 0x00007ffe8ff96000 	C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL
+0x00007ffe913a0000 - 0x00007ffe913ba000 	C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+0x00007ffe928a0000 - 0x00007ffe92a2a000 	C:\WINDOWS\SYSTEM32\dbghelp.dll
+
+VM Arguments:
+jvm_args: -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -Xms4G -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\Hunter Wells\AppData\Roaming\.minecraft\versions\1.8.8\1.8.8-natives-24580861872670 
+java_command: net.minecraft.client.main.Main --username rcnerd --version 1.8.8 --gameDir C:\Users\Hunter Wells\AppData\Roaming\.minecraft --assetsDir C:\Users\Hunter Wells\AppData\Roaming\.minecraft\assets --assetIndex 1.8 --uuid 2b14785b313c4c35ba883f2e95b9dcdd --accessToken 18a1bbff5c1844fead3951011aa48726 --userProperties {} --userType legacy
+java_class_path (initial): C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Hunter Wells\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Hunter Wells\AppData\Roaming\.m
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+USERNAME=Hunter Wells
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 8.1 , 64 bit Build 9600 
+
+CPU:total 8 (4 cores per cpu, 2 threads per core) family 6 model 60 stepping 3, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, clmul, erms, lzcnt, ht, tsc, tscinvbit, bmi1, bmi2
+
+Memory: 4k page, physical 8271376k(6095364k free), swap 10237456k(3337716k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.25-b02) for windows-amd64 JRE (1.8.0_25-b18), built on Oct  7 2014 14:25:37 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Fri Aug 07 16:20:32 2015
+elapsed time: 0 seconds (0d 0h 0m 0s)
+

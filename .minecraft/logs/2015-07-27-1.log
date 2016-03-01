@@ -1,0 +1,136 @@
+[14:01:44] [Client thread/INFO]: Setting user: rcnerd
+[14:01:44] [Client thread/INFO]: (Session ID is token:1f7bc219c5eb4f579ec29662c5d2358b:2b14785b313c4c35ba883f2e95b9dcdd)
+[14:01:45] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:01:46] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[14:01:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:01:46] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:01:46] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:01:46] [Thread-6/INFO]: OpenAL initialized.
+[14:01:47] [Sound Library Loader/INFO]: Sound engine started
+[14:01:56] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[14:02:49] [Server thread/INFO]: Starting integrated minecraft server version 1.8.7
+[14:02:49] [Server thread/INFO]: Generating keypair
+[14:02:49] [Server thread/INFO]: Preparing start region for level 0
+[14:02:50] [Server thread/INFO]: Changing view distance to 16, from 10
+[14:02:50] [Server thread/INFO]: rcnerd[local:E:c5266cab] logged in with entity id 633 at (264.413831278024, 77.63747862497502, 250.47782289397526)
+[14:02:50] [Server thread/INFO]: rcnerd joined the game
+[14:02:51] [Client thread/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:02:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2105ms behind, skipping 42 tick(s)
+[14:02:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:02:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:02:55] [Server thread/INFO]: Saving and pausing game...
+[14:02:55] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[14:02:56] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[14:02:56] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
+[14:02:56] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[14:02:56] [Server thread/INFO]: Stopping server
+[14:02:56] [Server thread/INFO]: Saving players
+[14:02:56] [Server thread/INFO]: Saving worlds
+[14:02:56] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[14:02:56] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[14:02:56] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
+[14:02:57] [Client thread/INFO]: SoundSystem shutting down...
+[14:02:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[14:02:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:02:57] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[14:02:57] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:02:57] [Thread-10/INFO]: OpenAL initialized.
+[14:02:57] [Sound Library Loader/INFO]: Sound engine started
+[14:03:06] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[14:03:14] [Server thread/INFO]: Starting integrated minecraft server version 1.8.7
+[14:03:14] [Server thread/INFO]: Generating keypair
+[14:03:14] [Server thread/INFO]: Preparing start region for level 0
+[14:03:14] [Server thread/INFO]: Changing view distance to 16, from 10
+[14:03:14] [Server thread/INFO]: rcnerd[local:E:c4ad07d4] logged in with entity id 5752 at (256.9799589361472, 66.0, 232.89148568352763)
+[14:03:14] [Server thread/INFO]: rcnerd joined the game
+[14:03:19] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2177ms behind, skipping 43 tick(s)
+[14:03:30] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:30] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:31] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:32] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4919ms behind, skipping 98 tick(s)
+[14:03:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:51] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:51] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:51] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:51] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:52] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:03:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3199ms behind, skipping 63 tick(s)
+[14:03:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:03:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:04:00] [pool-2-thread-1/ERROR]: Signature is missing from textures payload
+[14:04:01] [Server thread/WARN]: Fetching addPacket for removed entity
+[14:05:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:05:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:06:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:07:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:07:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:07:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[14:07:08] [Server thread/INFO]: Saving and pausing game...
+[14:07:08] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[14:07:08] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[14:07:08] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End

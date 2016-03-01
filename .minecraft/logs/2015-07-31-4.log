@@ -1,0 +1,58 @@
+[15:37:14] [Client thread/INFO]: Setting user: rcnerd
+[15:37:14] [Client thread/INFO]: (Session ID is token:7efc31d7da914a9d81e46a52ca3d8aed:2b14785b313c4c35ba883f2e95b9dcdd)
+[15:37:14] [Client thread/INFO]: LWJGL Version: 2.9.4
+[15:37:15] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[15:37:15] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:37:15] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[15:37:15] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:37:15] [Thread-6/INFO]: OpenAL initialized.
+[15:37:16] [Sound Library Loader/INFO]: Sound engine started
+[15:37:25] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[15:37:48] [Server thread/INFO]: Starting integrated minecraft server version 1.8.8
+[15:37:48] [Server thread/INFO]: Generating keypair
+[15:37:48] [Server thread/INFO]: Preparing start region for level 0
+[15:37:49] [Server thread/INFO]: rcnerd[local:E:afc1b95e] logged in with entity id 585 at (21029.027974916262, 74.73584067272827, 11000.231595869174)
+[15:37:49] [Server thread/INFO]: rcnerd joined the game
+[15:37:50] [Server thread/INFO]: Changing view distance to 16, from 10
+[15:37:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2356ms behind, skipping 47 tick(s)
+[15:38:00] [Server thread/INFO]: Saving and pausing game...
+[15:38:00] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[15:38:00] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[15:38:00] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
+[15:38:03] [Server thread/INFO]: Saving and pausing game...
+[15:38:03] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[15:38:03] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[15:38:03] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
+[15:38:05] [Server thread/INFO]: Stopping server
+[15:38:05] [Server thread/INFO]: Saving players
+[15:38:05] [Server thread/INFO]: Saving worlds
+[15:38:05] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[15:38:05] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[15:38:05] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
+[15:38:07] [Server thread/INFO]: Starting integrated minecraft server version 1.8.8
+[15:38:07] [Server thread/INFO]: Generating keypair
+[15:38:07] [Server thread/INFO]: Preparing start region for level 0
+[15:38:07] [Server thread/INFO]: Changing view distance to 16, from 10
+[15:38:08] [Server thread/INFO]: rcnerd[local:E:212bb9f2] logged in with entity id 2844 at (21028.964135896986, 73.95184065746946, 11000.15436978312)
+[15:38:08] [Server thread/INFO]: rcnerd joined the game
+[15:39:33] [Client thread/ERROR]: Item entity 16127 has no item?!
+[15:39:33] [Client thread/ERROR]: Item entity 16127 has no item?!
+[15:39:33] [Client thread/ERROR]: Item entity 16127 has no item?!
+[15:50:08] [pool-2-thread-2/ERROR]: Signature is missing from textures payload
+[15:59:36] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:36] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:36] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:36] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3159ms behind, skipping 63 tick(s)
+[15:59:42] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:42] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:42] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:43] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[15:59:45] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[16:00:07] [Client thread/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[16:00:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[16:00:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[16:01:30] [Server thread/INFO]: Saving and pausing game...
+[16:01:30] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[16:01:30] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[16:01:30] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End

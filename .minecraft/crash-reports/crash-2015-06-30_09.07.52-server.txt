@@ -1,0 +1,76 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 6/30/15 9:07 AM
+Description: Ticking memory connection
+
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:388)
+	at aej.a(SourceFile:72)
+	at aoa.a(SourceFile:473)
+	at ld.a(SourceFile:174)
+	at amy.a(SourceFile:875)
+	at ld.c(SourceFile:104)
+	at lc$a.<init>(SourceFile:39)
+	at lc.a(SourceFile:231)
+	at lc.a(SourceFile:263)
+	at lx.a(SourceFile:225)
+	at lx.c(SourceFile:277)
+	at lx.a(SourceFile:132)
+	at lo.b(SourceFile:110)
+	at lo.c(SourceFile:56)
+	at ek.a(SourceFile:221)
+	at ll.c(SourceFile:168)
+	at net.minecraft.server.MinecraftServer.B(SourceFile:625)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:535)
+	at bpo.A(SourceFile:152)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:451)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at java.util.Random.nextInt(Random.java:388)
+	at aej.a(SourceFile:72)
+	at aoa.a(SourceFile:473)
+	at ld.a(SourceFile:174)
+	at amy.a(SourceFile:875)
+	at ld.c(SourceFile:104)
+	at lc$a.<init>(SourceFile:39)
+	at lc.a(SourceFile:231)
+	at lc.a(SourceFile:263)
+	at lx.a(SourceFile:225)
+	at lx.c(SourceFile:277)
+	at lx.a(SourceFile:132)
+	at lo.b(SourceFile:110)
+	at lo.c(SourceFile:56)
+	at ek.a(SourceFile:221)
+
+-- Ticking connection --
+Details:
+	Connection: ek@30210b6a
+Stacktrace:
+	at ll.c(SourceFile:168)
+	at net.minecraft.server.MinecraftServer.B(SourceFile:625)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:535)
+	at bpo.A(SourceFile:152)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:451)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.7
+	Operating System: Windows 8.1 (amd64) version 6.3
+	CPU: 8x Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 4619953752 bytes (4405 MB) / 5145362432 bytes (4907 MB) up to 5145362432 bytes (4907 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx5G -Xms5G
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [lf['rcnerd'/216, l='Slime Farm', x=-1038.40, y=24.83, z=-87.06]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Probably not. Jar signature remains and both client + server brands are untouched.

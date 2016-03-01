@@ -1,0 +1,683 @@
+Changelog
+
+[6.0.0]
+-Reformatted the texture pack (yet again) to work on the new format.
+-Added all 13 textures for the legitimately-obtainable horses, donkeys, and mules.
+-Added textures and icons for the three horse armors.
+-Added texture for coal blocks and hay bales
+-Added icons for all the new items in Minecraft 1.6.
+-Added CIT custom potion art support for all legitimately-obtainable potions.
+-Tweaked existing color values for potions so the effect particles better match the new art.
+-Added placeholder for unique birch leaf art until I can figure out how I want to revamp oak and birch leaves.
+-Reverted sponge texture back to its original look now that it's no longer needed for haybales.
+-Set custom colors for horse spawn egg to better reflect the spawn.
+-Updated the GUI file to include the new horse health and jump meter.
+-Expanded chiseled sandstone's CTM to include vertically-oriented cartouches.
+-Expanded birch plank blocks to have full CTM support.
+-Added CTM textures for all of the new hardened clay blocks.
+-Added custom lead and fishing line textures.
+-Tweaked Better Skies so that the distant ambient clouds move across the skies gradually.
+-Tweaked CTM for Bricks, Iron Blocks, and Smooth Sandstone to use the inner seam method for corners.
+-Tweaked and expanded biome-based custom colors slightly.
+-Added very limited support for the 'ß' Unicode character.
+-Removed Unicode kana support as it no longer fit the look of the western font and looked messy with kanji.
+-Added Custom Items (CIT) support for degredation of shovels, pickaxes, axes, and swords of all materials.
+-Added CIT support for degredation of carrots on a stick, flint and steel, and shears.
+-Added six unique enchantment effects with CIT -- many of which are fully animated (More to come later).
+-Disabled the generic enchantment effect temporarily so the new potion animations are more visible.
+-Moved unique top and bottom textures from wool blocks to carpet.
+-Retained unique wool block bottom texture for white wool block as it works well for ceilings.
+-Added on state for detector rails.
+-Animated golden apple.
+-Repacked the zip to fix any potential corruption on some machines.
+-Removed version from the filename of the pack. Current version will be listed at the top of the changelog.
+-Tweaked legal.txt to reflect format changes. It's now easier to know which files can't be redistributed.
+-Various minor tweaks.
+
+
+[5.0.0]
+-Reformatted texture pack to work on the new format.
+-Optimized filesize as much as possible and did some major cleaning of redundant files.
+-Completely rebuilt CTM structuring from scratch to be more organized.
+-Added textures and various CTM support for all of the new netherquartz blocks.
+-Decreased hue of pre-existing netherquartz components to better match the whitish nature of blocks.
+-Added item icon for TNT Minecarts.
+-Designed a new clock to make use of new Custom Clock features and animation.
+-Reformatted compass to make use of the new custom compass format.
+-Simulated SSAO on Iron doors to make them better match iron walls with smooth lighting.
+-Added wither status life meter icons.
+-Various tweaks. (I'm sure there's a lot I did that I can't remember...)
+-Cried profusely at the release of every single snapshot that somehow managed to mess SOMETHING up.
+-Had Kahr's babies. (I promise next time I'll update the changelog AS I make changes. :P)
+
+[4.3.4]
+-Altered map colors slightly to give more of a color palette to work with.
+-Added soft firework flash particle.
+-Added animated textures for both netherquartz ore and mined netherquartz.
+-Added animated textures for light sensors.
+-Added item icon and animated texture for Comparators.
+-Recreated the textures for Repeaters to better match Comparators and reflect the new analog nature of Redstone.
+-Added animated textures for new redstone blocks.
+-Added textures for the new trapped chests.
+-Used CTM to create custom art for the two new pressure plates.
+-Added nether brick item icon.
+-Added GUI file for the hopper.
+-Attached nightvision light maps to the Nether and End lighting palettes.
+-Minor various adjustments to existing textures to match the newer ones.
+
+[4.3.3]
+-Recreated every single creeper (again) and assigned biome biome and rarity support to all 70 of them.
+-Full-body animation added for one of the easter egg creeper skins.
+-Added new item icons for firework rockets, firework stars, and enchanted books.
+-Added fireworks particles.
+-Animated the arrow/critical spark particles. (Now arrows should look like they have spin on them.)
+-Remade ladders from scratch and added vertical CTM support to them.
+-Moved old ladder texture to ALTERNATES.png.
+-Added support files for custom compass needle.
+
+[4.3.2]
+-Added item icon for new music disc.
+-Recreated jukebox and note block textures from scratch with on and off states.
+	-Style remains the same but has been greatly cleaned up to match the current wood planks.
+	-Without a disc, jukeboxes will better resemble their crafted materials.
+	-Jukeboxes will only glow with color when a disc is inserted.
+	-A spinning record will be visible on top when a disc is inserted.
+	-As unique record labels cannot be applied for each disc, all discs play on the reverse side. :P
+	-Note blocks have unique animated sides and a static top texture.
+-Randomized Cobweb placement angles. (They should look a bit less artificial in large clusters now.)
+-Adjusted Better Glass.
+	-Panes and blocks have been reduced in color saturation.
+	-Panes have the original glass frame for windows.
+	-Blocks are now tapered and have thin, ground-down, opaque edges.
+-Redesigned the healing beam for the Enderdragon.
+-Added 4 new slimes and assigned biome variance to all slimes. (Knit caps now only in snow areas.)
+-Brought back 5 old spider skins and assigned biome variance to all spiders. (Jungles are the best!)
+-Recreated all creeper skins (50 total now) and assigned biome variance to them all.
+-Repacked the zip to hopefully correct issues with Mac and Linux users being unable to decompress.
+-Various minor texture tweaks.
+
+[4.3.1]
+-Added textures for repair interface.
+-Added beam texture.
+-Added animated texture to beacon emitter.
+-Reverse-engineered and added new painting.
+-Added Shading to panes to make edges of the pane clearly visible without needing a proper frame.
+-Removed test pixel from glass panes.
+-Added expended trade icon to the trading GUI.
+-Fixed a minor issue with black pixels on one of the random tall grass textures.
+-Fixed the texture size format for witches and zombie pigmen.
+
+[4.3.0]
+-Added Custom Color support for new spawn eggs, leather armor, armor dyes, and wolf collar dyes.
+-Added skin for the new bats.
+-Added skin for the new witch.
+-Added GUI elements for the beacon block interface.
+-Added animated textures for both the beacon block and Nether star.
+-Redesigned the Ender Dragon crystals with animation to be more consistent with the Nether stars.
+-Added item icons for all the new head blocks.
+-Added item icon for the pumpkin pie.
+-Redesigned the item icons for fish and cooked fish.
+-Added 16 Randomobs skins for the new wither skeletons.
+-Completely redesigned leather armor from scratch to make use of the new dye overlays.
+-Added textures and item icons for new potatoes and carrots and the plants that grow them.
+-Added animated item icon for golden carrot.
+-Added textures and item icon for new flowerpots.
+-Added textures and item icon for new item frames.
+-Added unique art to the new wooden button.
+-Added unique and animated textures (three of them!) for new command block.
+-Added 10 Randomobs skins for the new zombie villagers.
+-Added particles for throwable healing and damage potions.
+-Added item icon for the new blank maps.
+-Added support for dyeable wolf collars.
+-Added skins for the new Wither mob and its two other associated model textures.
+-Added wither status icon to inventory.png.
+-Added custom Nightvision palette to make the effect much more realistic. 
+-Added unique textures and CTM support for plain and mossy cobblestone walls.
+-Added more sensible CTM support to birch slabs and stairs.
+-Added BetterGlass and CTM support for glass blocks and panes. (Each behave differently.)
+-Re-designed the sign art to clean it up a bit and to reflect the current look of oak planks in the pack.
+-Altered the sign icon to reflect the new sign art.
+-Slightly reduced the size of the painting icon and added a small hanger to match the item frame icon.
+-Redesigned the look of emotion-based particles, and added particles for anger and new stock for villagers.
+-Slightly altered potion colors--like Vanilla, speed potions are now sky blue, and harming potions are now purple.
+-Smoothed out runic particles for enchantment tables surrounded by bookshelves.
+-Added large texture support to Netherrack and slightly redesigned held texture to match.
+-Extended CTM support for smooth standstone to the top and bottom of the blocks.
+-Added 3 more random variants of Dead Shrubs.
+-Slightly altered underside textures to chests.
+-Slightly altered CTM support for bookshelves to hopefully address some of the tiling issues with the four white books.
+-Fixed a bug with one of the gold bands from the Diamond helmet not lining up properly.
+-Fixed the custom gate texture to align properly for stone walls.
+-Fixed a minor graphical issue on the furnace GUI.
+-Toned down the enchantment effect (glint.png) a bit.
+-Removed mini craft interface from creative inventory.
+-Removed tab shifting from creative inventory as it made no sense without the icons shifting with tabs as well.
+-Desaturated rain particles.
+-Various optimizations to formatting to hopefully improve performance.
+
+[4.2.0]
+-Completely redesigned the wheat texture from scratch to look less sickly and provide better cues for maturity.
+-Added unique, random top textures to spruce planks that makes more physical sense. (Great for floor tiling!)
+-Added unique textures for all log tops to better match the color of planks they produce
+-CTM support for log tops is now only limited to jungle wood.
+-Added random texture support to TNT blocks. (They can now have a variety of labels or no label at all.)
+-Fixed a texture problem with the bottoms of cauldrons.
+
+
+[4.1.6]
+-Added support for Better Skies:
+	-New, detailed star skybox--complete with galaxies and nebulae.
+	-Distant ambient cloud layers for night and day.
+	-New sun art with dynamic flaring effects for more realistic sunrises and sunsets.
+-Moon was shrunken down a tiny bit, as there's more things in the night sky to look at now.
+-Various moon phases have been given slightly more color to fit with the new, less-greyscale night skies.
+-Tweaked the biome coloring of skies and fog to account for new sun effects. (The sun is brightest in deserts.)
+-Altered snow golem design slightly and added randomob support to it.
+-Redesigned mooshroom slightly by removing the mushrooms on the back and giving it a big mushroom cap.
+-Added brown mushroom version of mooshroom.
+-Adjusted the old and added new blinking animation for both mooshrooms.
+-Added random texture support for red and brown mushrooms.
+-Altered default brown mushroom to accomodate the new random textures for mushrooms.
+-Added CTM large texture support for monster egg (Silverfish) blocks. (They now indicate burrowing.)
+-Tweaked water to be SLIGHTLY more translucent.
+-Altered glint.png to make the enchanted effect a bit more subtle and colorful.
+
+[4.1.5]
+-Updated the trading GUI window to accomodate trading of two items at a time.
+-Added support for the new creative mode block menu.
+-Added animated emerald block texture.
+-Added textures for tripwire hooks and placed string.
+-Added CTM support for iron blocks.
+-Added CTM support for sugar cane.
+-Added CTM support for obsidian which has also received a new, more realistic and less noisy look.
+-Added unique fence art for both fence types and fence gates. (They're not perfect from some angles, but way better than the default.)
+-Added unique top and bottom art to nether bricks.
+-Added unique art to stone and wooden pressure plates now that tripwire is the camouflage way to do traps--also improves the look of tables.
+-Added unique art to stone buttons to help them stand out a bit.
+-Added unique tops and bottoms to all wool blocks to add some mild variety to wool blocks being used as carpeting. 
+-Removed animations from iron blocks and iron doors to accomodate CTM iron blocks.
+-Slightly redesigned the look of iron doors to match the new look of iron blocks. 
+-Slightly darkened the item icon for sugar cane to match the new look of sugar cane.
+-Updated the enchantment tables and enderchests to reflect the new look of obsidian.
+-Slightly lightened the color of Nether fences to better showcase the new textures.
+-Reverted to the old coloring method for nether bricks and nether brick stairs. (Fences will look weird in the inventory and hand only.)
+-Removed the wood variance from half-steps and stairs made of oak planks to accomodate the new fence textures.
+-Various colored blocks in the mushroom biome are now a bit more vibrantly colored than elsewhere.
+-Created a proper logo for pack.png that doesn't require me to constantly update it with each version.
+-Fixed the issue with biome stone coloring not being applied to emerald ore blocks.
+-Moved obsolete textures from terrain.png to ALTERNATES.png
+-Added a few new requested tiles to ALTERNATES.png
+
+[4.1.4]
+-Added GUI for NPC trading interface.
+-Added and animated emerald ore texture.
+-Added and animated emerald item icon.
+-Added and animated enderchest textures.
+-To make worn pumpkins less worthless, the nightvision effect has been improved with no LOS drawbacks. The creeper face will mostly be visible in extremely dark areas now.
+-Added textures for the three cacao pod stages.
+-Added GUI and item icons for the book and quill.
+-Altered existing book item icon to accomodate the look of the new book and quill item icons.
+-Added MCPatcher CTM support for end stone
+-Added MCPatcher CTM support for bedrock.
+-Added MCPatcher CTM support for snow.
+-Added MCPatcher CTM support for ice.
+
+
+[4.1.3]
+-Added MCPatcher CTM support:
+	-Bookshelves now have more of a variety of books when more than one are placed next to each other.
+	-Circle stone blocks can now be used to construct pillars, archways, and all sorts of interesting geometric stone patterns.
+	-Tops of logs will now expand to form a large smooth tree ring surface when 4 or more are connected at right angles.
+	-Jungle tree logs will now be shaded dynamically based on width--other logs are unaffected for wall-building.
+	-Brick walls now have corner stones.
+	-Hieroglyphic sandstone blocks have more variety in how they tile and when placed alone or in groups.
+	-Smooth sandstone blocks now have a completely smooth surface everywhere except their edges.
+	-Light wooden planks now have CTM dynamics that allow better framing on the side with unique tops.
+	-Crafting workbenches can now form desks, shelves and drawers when placed adjacent to each other.
+-Added MCPatcher Random Texture support:
+	-Flat grass now has much more variety with: clover patches, flowers, gopher holes, thistle, crabgrass, and leaf debris.
+	-Stone slabs now have random variation that matches the new look for Smooth stone.
+	-Stone blocks now have random block angles, where some blocks may jut out or sink in slightly more than others.
+	-Oak, Pine, and Jungle planks now have some minor random variation to their tiling pattern.
+	-Roses and yellow flowers now come in 9 various shapes and sizes each.
+	-Dead bushes now come in various stages.
+	-Tall grass has more variety to it now.
+	-Lilypads can now face in 8 possible directions as opposed to the previous 4.
+	-Watermelons have an incredibly rare chance to spawn in some locations with a creeper face.
+-Added MCPatcher Repeating texture pattern support:
+	-Smooth stone is now way smoother and doesn't have that weird diamond pattern in the distance.
+	-Gravel tiles much less obviously and makes for more rugged-looking roads.
+	-Clay is now more usable as a building material with its new variance.
+	-Dirt has a lot more character and detail than ever before.
+	-Sand is now slightly more granular and the dune-size has been realistically increased to tile better over large areas.
+-The main font has been given a tiny bit of depth to make it look smoother and slightly more three dimensional.
+-Custom sign color added.
+-Decreased the view obstruction a bit when wearing the pumpkin. Nightvision effect is unchanged.
+-Replaced the completely worthless sponge texture with a more useful bale of hay, due to similar properties/function.
+-Modified the texture for light wooden planks to account for the new dynamics introduced by CTM. (may do the same for brick later)
+-ALTERNATES.png has been updated to store any altered old versions of textures.
+-Colored areas on terrain.png to water and lava colors so they work properly on mini-map mods.
+-Fixed a stray pixel on the animated diamond shovel.
+-Fixed the missing animated blaze texture.
+-Fixed a missing snout on Pig12.png.
+-Fixed a few stray pixels on inventory.png 
+
+[4.1.2]
+-Added texture support for the new plank and sandstone blocks added in 1.2.4
+	(I didn't keep all the planks uniform to make them more usable. 
+	Uniform planks are available in ALTERNATES.png for you purists.)
+-Added proper equipment slot icons.
+-Animated flame particle for torches.
+-Animated both redstone wire textures to flicker mildly in a fashion similar to redstone torches.
+-Added a few new tiles to ALTERNATES.png.
+-Various minor texture tweaks.
+
+[4.1.1]
+-Added animation support for following mobs:
+	-Tamed wolves blink.
+	-Tamed Cats blink lazily.
+	-The purple flames inside the endermen now flicker when their mouths are open.
+	-Flames now have animated--well--flames.
+	-Mooshrooms have an unusual blinking animation.
+	-Chickens blink twitchily.
+	-Pigs blink.
+	-Cows blink lazily.
+	-Sheep blink.
+-The creeper face on the main title screen now has a twinkle in its eye.
+-Added another male farmer to even out the sex population for Villager Randomobs.
+-Replaced the underwater screen overlay with an animated version to simulate non-dynamic caustics.
+	(Making underwater look MUCH more underwatery.)
+-Replaced The distracting vignette image with a much more subtle 'film grain' effect.
+	(To simulate the noise generated by the brain when light signals aren't being interpreted well.)
+-Spore/dust particles on mycelium now come in a variety of soft rainbow colors. (Again, don't inhale!)
+-Tweaked the sky and fog in the Nether and End to be slightly less dark.
+-Minor tweak to a couple font colors to better match my HUD
+-Fixed a bug and flipped all the pig butts right-side up again. (Thanks again, Mojang.)
+
+[4.1]
+-Added art for iron golems.
+-Added (animated) art for both of the the redstone lamp states.
+-Added Randomobs support for villagers. (Gay sex is now not the only way to reproduce.)
+	-1 new butcher/baker added. (2 total)
+	-4 new farmers/peasants added. (5 total)
+	-1 new librarian added. (2 total)
+	-3 new priests/nuns added. (4 total)
+	-3 new smiths added. (4 total)
+-Added textures for the new stone brick and sandstone blocks.
+-Updated the tops and bottoms of sandstone blocks with more fitting art. (Old art has been moved to ALTERNATES.png)
+-Mycelium has been animated to very gradually change color over a long period of time. (Don't inhale!)
+-Particles for dust/spores have been mildly increased in size to be more visible on mycelium.
+-Recreated all biome palettes from scratch to match the new format used in-game.
+-Nether brick fences are now dark grey to increase their usability by mimicking wrought iron fences.
+-Slightly reworked Nether bricks to adapt for the new changes made to nether brick fences. (Not a big change.)
+-Tweaked jungle leaves to distinguish their color differences from oak leaves.
+-Darkened cobwebs a bit to make them stand out slightly less.
+-Tweaked background texture for main menus to be slightly lighter than before.
+-Added custom color parameters for Ocelot spawner eggs.
+-Added a few new tiles to ALTERNATES.png.
+-Fixed the chicken feet yet AGAIN by flipping them. (Make up your mind already, Mojang!)
+-Fixed some stray pixels on some of the headless zombies
+
+
+[4.0.4]
+-Added sapling art for the jungle trees.
+-Added mob skins for the Ocelot and all three varieties of tamed cats.
+-Added Randomobs support for Zombie Pigmen with 20 variants.
+-Redid default pigman zombie Pigman to better reflect the new style of randomobs.
+-Added animated and still Bottle o' Enchanting item icons.
+-Fixed a bug with stray pixels on headless zombies.
+-Fine tuned all standard and custom biome palettes to better accompany the jungle biome.
+-Centered orientation of Blaze Powder animation to better match other item orientations.
+
+[4.0.3]
+-Added leaves and trunks for jungle trees.
+-Added support for custom colors on maps and dyed sheep.
+-Lightened sheep wool slightly to allow for wider ranges of applied coloring.
+-Made a completely new map icon to better reflect the new colors used on maps.
+-Various minor tweaks.
+
+[4.0.2]
+-Added support for custom colored spawner eggs with spots.
+-Removed the animation from spawner eggs to allow for the new spotted egg format.
+-Added the Language select icon on the main menu.
+-Added biome palettes for sky, fog, and underwater atmospheric coloring. (Biomes are much more thematic now.)
+-Added new high resolution clouds and set them to be forced to more realistic 2D-rendering.
+-Tweaked the lighting a bit. (Toned down the red and saturation. It should be more faded and orange now.)
+-Edited all applicable biome palettes to give the Mushroom biome more vibrant fantasy colors.
+-Cleaned up the pack directory by moving all animations to the new anim folder. (Affects nothing in-game.)
+
+[4.0.1]
+-Added spawner egg item icon. Then animated it at the last moment. :P
+-Fixed the ender crystal pedestals to look like bedrock. (They were not intended to have the egg texture.)
+-New tiles for ALTERNATES.png.
+-Added color.properties to support Custom Colors. (Potions are a bit more vibrant, Spawn egg colors make more sense.)
+-Reworked the terrain palettes from scratch. (Closer to how they used to be with my pack instead of the Notch defaults.)
+-Added swamp terrain palettes to support Custom Colors. (Smoother transitions, no longer look like Notch's defaults.)
+-Working light palettes added for Custom Colors. (Sunsets are more dynamic and torchlight is much warmer.)
+-Added biome palettes for birch leaves and pine needles. (Much more visual diversity among trees.)
+-Added biome palettes for sand, gravel, and smooth stone/ores. (Most noticeable in deserts, swamps, and cold areas.)
+-Increased brightness of sand and gravel to allow for better biome coloring. (Not noticeable in common biomes.)
+-Added biome water colors. (Swamps are muddy, mountains have mineral springs, ice fades into water, and deeper blue oceans.)
+-Darkened and desaturated reeds/sugar cane a bit.
+-Lightened wheat a bit.
+-Shrunk chicken egg a bit to increase the size contrast between them and the new eggs.
+-Shrunk coal, flint, apples, and clay a bit to better scale with other items.
+-Added color palettes for lava droplets and pumpkin/melon vine growth stages.
+-Included rudimentary support for Japanese kana on Unicode. (Not integrated. Requires minecraft.jar injection.)
+-Cleaned up some obsolete files, and added a properties file to the alternate font to avoid spacing errors.
+-Made splash particles greyscale to adapt to the watercolorX.png (Will look funny on older versions of MCPatcher.)
+
+[4.0]
+-Texture added for the Enderdragon. Finally.
+-Textures added for all new blocks introduced in 2.0
+-Art added for boss health bar bar.
+-Art added for the ender crystal things that heal the dragon and have no official name yet.
+-Art added for the particle effects associated with the enderdragon.
+-Flipped all the cow butts to be rightside up after Mojang flipped them upside down for no good reason.
+-Fixed minecart wheels.
+-New custom animations added:
+	-Dispensers briefly come to life and glance around once in awhile.
+	-Most everything involving diamonds now sparkles, including ore, blocks, and tools.
+	-Some gold things and iron things sparkle as well though not as much as diamond.
+	-The Eye of Ender has a fiery/glowy effect normally and a watery/glowy effect when placed in a portal.
+	-All liquid in buckets and bottles moves around or glows the way you'd expect it to.
+	-Glowstone dust pulses to match the actual glowstone blocks.
+	-The ghast's flaming projectile spins as it flies at you.
+	-The Blaze rod and all things associated with it look really hot.
+	-Ghast tears Sparkle colorfully.
+	-The glistering melon... well... glistens.
+
+[3.0.6]
+-Support added for the animated textures introduced in the lastest MCPatcher.
+	-Furnaces now have animated fire with accompanying lighting effects.
+	-Soul Sand writhes and has glowing eyes that blink in rhythm.
+	-Glowstone twinkles and pulses.
+	-Torches, Redstone Torches and Jack O'Lantern flicker a bit.
+	-Redstone Ore and Redstone Dust have a slow, pulsing glow.
+	-Pistons and Sticky Pistons have Knight Rider-esque pulsing effects on the redstone bits. :P
+	-Repeaters have a unidirectional pulse of light inside the stone carvings when active.
+	-Wheels on the Powered Rails now spin when activated.
+	-Enchantment Tables have glowing magical symbols moving on the tablecloth.
+	-Brewing Stands have bubbling liquid in bottles placed on them.
+	-Spawners throb between a cooled and heated state.
+	-The diamonds on Jukeboxes and Music blocks now give off a decorative and colorful range of light.
+-Darkened the Nether Brick texture to make it easily discernable from Netherrack.
+
+[3.0.5]
+-The runic enchantment font has been thickened.
+-Properties file added for MCPatcher font spacing of the main font.
+-Moon phases added. (Old moon no longer appears, but the new ones still have the creeper face.)
+-Textures added for all new blocks introduced in 1.9 Pre #4
+-Item icons added for all new items introduced in 1.9 Pre #4
+-Particle art added for all new particles introduced in 1.9 Pre #4
+-Shine spark particle tweaked.
+-Re-added fix for green lines that appear on water for some users.
+
+[3.0.4]
+-Textures added for all new blocks introduced in 1.9 Pre #3
+-Item icons added for all new items introduced in 1.9 Pre #3
+-Slimeballs, snowballs, and magma cream have had their size reduced.
+-Netherwort icon slightly tweaked
+-Particle art added for all new particles introduced in 1.9 Pre #3
+-Art files for the Ender portal effects have been added.
+-Book art has been added for the enchantment table. (Cheers to whoever catches the reference. :P)
+-New Font added for the runic alphabet used by the enchantment table. 
+	(The font is a semi-intuitive readable arrangement of runes based on the elder futhark. Just stare at
+	it for a minute and you'll be able to read it fluently in no time. The lack of spacing is intentional.
+	It makes things slightly more cryptic when characters blend together, but it's all still discernable.)
+-Enchant GUI window has been added.
+-Brewing Stand GUI window has been added.
+-Slightly tweaked Furnace GUI window to better match the flame style to the bubble style on the brewing stand.
+
+[3.0.3]
+-Lowered resolution of misc/dial.png to 4x resolution instead of 8x to reduce lag. (8x renamed to ALTdial.png)
+-Added a big, ugly, black line to the chest lids to cover up the Z-Fighting due to Notch's modeling incompetence.
+-Potion status icons added to inventory.png 
+-Textures added for all new blocks introduced in 1.9 Pre #2
+-Item icons added for all new items introduced in 1.9 Pre #2
+-Placeholder updates to icons.png for 1.9 Pre #2
+
+[3.0.2]
+-Glass pane edges thinned a bit.
+-Villager skins added for butchers, librarians, priests, smiths, and farmers.
+-Old, leaked mycelium texture moved to ALTERNATES.png.
+-Mycelium has been tweaked from my leaked texture to be a bit more realistic/moldy and less depressingly gloomy.
+-New, requested alternates have been added to ALTERNATES.png (Frame-less Gold and Lapis, vanilla-esque iron bars)
+-Particle art added for all new particles introduced in 1.9
+-Textures added for all new blocks introduced in 1.9
+-Item icons added for all new items introduced in 1.9
+-Skin added for Magma Cubes
+-Skin added for Blazes
+-Skin added for Snow Golems
+-Skin added for Mooshrooms.
+-Clay in terrain.png and ALTERNATES.png has been mildly tweaked to have a bit more visual difference from gravel.
+-Randomobs.properties file has been updated. (Be sure to use my new one.)
+-Added Randomobs support for 8 new wolves. (9 total, 24 new skin files)
+-Recolored the Endermen to more vanilla colors to match their purple smoke particles.
+-Replaced the default biome palette since the 1.7 and earlier palettes do not work well with 1.8. & 1.9
+	(This means all 1.7 alt palettes may not look right in the game. Hopefully I'll be able to
+	do a better palette once 1.9 comes out and the biomes are a bit more finalized.)
+-Added the different sizes of XP Orbs, altered the default one orb art to better match the new system.
+-Minor GUI bugfix.
+-Flipped the damaged armor icon to be oriented to the left.
+-Very minor tweaks to icons.png
+
+[3.0.1]
+-Added snouts to all pig skins. (Note that the snouts overlap the old ones for backwards compatibility)
+-Re-added the squid skins. (Whoops!)
+-Updated Mojang logo to be easier on the eyes while still being close to vanilla.
+-Updated mapicons.png to reflect their state in 1.8
+-Added the current ALTERNATES.png
+-Added a panorama to the title screen based on my old personal world I've had since Infdev.
+-Fixed and revised the Silverfish skin.
+-Fixed the edges of the Ender Pearl
+
+[3.0]
+-Wild Grass support currently disabled.
+-Randomobs not fully supported just yet.
+-Skins added for the Endermen.
+-Skin for Silverfish added.
+-Bow and Arrow animation added.
+-HUD icons added for the new hunger meter and experience bar.
+-HUD art added for the creative mode window.
+-Textures added for all new blocks introduced into 1.8
+-Item icons added for all new items introduced in 1.8
+-Wild Grass Support currently disabled due to changes in 1.8
+-Diamond tools made to look slightly more sparkly.
+-Iron armor has been altered to make way for the recently added chainmail armor.
+-Added biome color palettes for different seasons. Default will be Summer. (Located in the Misc Folder)
+-Altered the color of tree leaves and associated biome palettes to have a higher range of color. 
+-Added a safety indicator light to the clock. It will glow red when it's dangerous to go outside.
+-Greatly enhanced the quality of the clock face. Made it more stylish and easier to read.
+-Background.png has been changed to something a bit lighter with some contrast.
+-Character faces have had their proportions adjusted to be closer to vanilla and more realistic.
+-Armor helmets have been readjusted so they better fit vanilla-proportioned skins.
+-Randomobs users, several notable archers have joined the ranks of the rattling undead.
+-New more tile-looking lapis lazuli block.
+-Netherrack has been reverted to a more cobblestone look.
+-The HUD health and armor icons have been tweaked to have more dimension.
+-New flowing water. Blends better with still water, flows slower, still as turbulent as before.
+-TNT has been colored red to better stand out from things crafted out of wood.
+-New Wooden door art. I felt the old one was too sloppy and dirty-looking.
+-New Cobblestone and Mossy (Viney?) Cobblestone texture to better fit the new NPC houses.
+-New Furnace art to fit new cobblestone. Old art tiles as usual are now in ALTERNATES.png
+-The art for minecarts has been cleaned up a bit.
+-Pumpkins are now back to their old selves again. :P
+-Font's been tweaked slightly to improve the visual differences between the 1, I, and l.
+-New redstone dust art to better reflect how redstone currently looks in-game.
+-Flipped the shears around so it looks like you're not just bonking things with the blunt edge.
+-Various minor item and texture tweaks.
+
+[2.2.1]
+-Support for Wild Grass has been re-enabled.
+-New mossy cobblestone texture. Old one has been moved to alternates.png.
+
+[2.2]
+-Support art added for both varieties of pistons.
+-Support art added for shears.
+-Support for Wild Grass temporarily removed until ejhopkins can re-assign the texture locations.
+-Rounded the snowballs to better fit this icon's double usage as a flaming ghast projectile.
+-Few minor tweaks to the looks of some item icons.
+-Fixed the upper right corner of the map so the colored area no longer extends off the paper.
+-Darkened tall grass to better match WildGrass.
+-Trimmed tall grass a bit around the bottom so that it no longer sticks off of the edges of blocks.
+-Added missing fishing rod item art. Tweaked existing rod art slightly.
+-Revamped the workbench art to better blend with chests for desks. (Try it out![C][WB][C])
+-Revamped the chest art slightly. The single chest is now a chest of drawers.
+-New alt textures and old textures that have been replaced have been added to ALTERNATES.png.
+-Arrows have had all of their art replaced with more realistic versions.
+
+[2.1]
+-Added support art and item icon for the new maps.
+-Added art for trap doors
+-Added art for tall grass and the ferny-looking thing. :P
+-Added art for dead shrubs
+-Added my old font as an alternate in the font/oldfont directory.
+-One or two texture tweaks and tweaks to ALTERNATES.png
+
+[2.0.2]
+-Creeper pumpkins have been temporarily changed into watermelons until pumpkins are back in season. :P
+-Creeper pumpkin art has been moved to ALTERNATES.png for those who don't like the change.
+-Obsidian has been redone to better reflect the look of my shader maps in the default pack.
+-New pack.png (I got sick of the creepy, happy Ghast face. :P)
+-Custom animated fire has been added to support the feature on the newest MCPatcher.
+-New font added. (Give it a shot for awhile before you unleash your "CHANGE BAD" post. :P)
+-New alternates added. (Hop on my Tinychat to suggest more.)
+-Added support files for Modloader (Ugh.) version of Wild Grass.
+-Fixed an issue with the edge of gold bars being the wrong color.
+-Grass has been rotated to look better with Better Grass.
+-Various other minor texture tweaks.
+
+[2.0.1]
+-Fixed the issue with the invisible grass on the sides.
+-Added slot.png despite the fact I cannot edit the scrollbar art. :/
+-Slightly new creeper skin based on new template I'm using for the randommobs mod.
+-Flipped rain. The game was rendering it upside down for some odd reason.
+-Minor texture tweaks.
+
+[2.0]
+-Faces of each wolf type have been tweaked to better reflect their temperament. (Less scary tamed wolves.)
+-The white lines on water have been addressed with a makeshift fix.
+-Particles missing from last update (1.4) have been added.
+-Support added for the new sidegrass.
+-The old default sapling's and sidegrass art have been moved to alternates.png
+-New sapling art for all three different sapling types.
+-High resolution weather effect art for snow and rain. (No two snowflakes are alike! :P)
+-Brand new slime textures to replace my old placeholder slimes.
+-Slime balls have been readjusted in hue to match the new slimes.
+-HD GUI support added for the Achievements interface.
+-Crackling shock effect added. BZZZT!
+-Three new textures added for the new minecart tracks.
+
+[1.9.0]
+-Art for all three Wolf states added.
+-High resolution title art added.
+-Items now include art for cookies.
+-Support files for vines and various other vegetation in Wild Grass mod now fully supported.
+-New ice texture replaces old one that had noticeable tiling issues.
+-Removed the background from the Mojang logo to better fit vanilla look.
+-Netherrack was changed to the more vanilla-looking viscera texture used in my shader maps.
+
+[1.8.1]
+-Redstone components have been redone to better match the limitations of new redstone. (Best I can do for now.)
+-Repeaters now have the electronic symbols for resistors and diodes instead of the boring old arrows. :P
+-Title Screen added (I may change it in a later update to remove the background)
+-New alternates added for easy-to-modify bed and more natural sandstone side textures.
+
+[1.8] 
+-New 400% resolution font that resembles vanilla's font, but is much smoother.
+-Support for the new painting added.
+-Textures and icons added for beds and repeaters.
+-Redstone dust has been unfortunately altered in a really bad way. (Nothing I can do to fix this)
+-Various textures like wood have been changed a bit to accompany a future release of my shader maps.
+
+[1.7.2]
+-Support added for lily pads on the Wild Grass mod.
+-Unique texture added for the tops of dispensers and furnaces.
+-More alternate resources added for all you pack editors out there.
+-Transparency mildly decreased on on animated portals.
+-Changes to gravel and clay to differentiate the two, and gravel from stone and sand a bit more.
+-Various minor texture tweaks
+
+[1.7.1]
+-Custom animated portals are fully supported (...and terribly mesmerising!)
+-Glowstone is now closer to the vanilla texture and actually appears to glow now.
+-Various dye icons have been changed to better fit the vanilla look and realistic theme.
+-ALTERNATES.png added to my pack as a resource for those who manually edit this pack.
+-Minor texture and item fixes.
+
+[1.7]
+-Colored cloth, lapis lazuli blocks, sandstone, cake, dispenser, pine and birch textures have been added.
+-Item sheet edited to include all new items introduced in Beta 1.2.
+-Foliage biome colors edited to accomodate new tree types.
+-New HD mob skin for Squid. (More resembles an octopus to me...)
+-Particle added for eighth-note produced by music blocks.
+-Wood made to be slightly grainer.
+-Flatter, lighter cobblestone replaces the old standard.
+-Iron, Gold, and Diamond blocks retouched to better fit a theme.
+-Small weeds added to wheat to give a better visual indicator of readiness for harvest.
+-Mob spawner recolored a bit to make it impose its presence.
+-Prison-styled iron doors replaced with solid iron door to better fit vanilla theming.
+-Furnaces defaulted to block-type construction instead of cobblestone for variety.
+-Flattened Minecart track rails with a slight indent to better resemble functional rails.
+
+[1.6.5]
+-Now supports really tall grass on the Wild Grass 5.0 mod.
+
+[1.6]
+-Support for the Wild Grass mod has been added.
+-Fixed stone tools so that they no longer blend in with the UI.
+-Lots of alternate resources added to terrain.png
+-Shrunk and flattened flowers to better blend with Wild Grass (Old ones have been moved to alternate resources.)
+-Smoothed out wooden planks a bit. (The more weathered version is still available in the alternate resources.)
+-Bricks have been darkened a bit as they would be in reality due to the firing.
+-Various textures like grass and logs have been tweaked to tile better.
+-The view from underneath a pumpkin helmet is now slightly less hindering. 
+-The nightvision effect from pumpkin helmets has been improved.
+-Various minor texture tweaks.
+
+[1.5]
+-Watch graphics have been tweaked now that they actually work with the latest MCPatcher.
+-Compass has been redone to look better now that the needle works with the latest MCPatcher.
+-Fixed the look of some of the tools to fit the materials they're constructed from.
+-Swords are a broader category of similarly-constructed weapons. (IE: Wooden swords are now clubs.)
+-Increased the resolution of particles and improved the art to better fit the realistic theme.
+-Added alternate resources to terrain.png (including betterglass) for those who like to customize their sheet.
+-Slowed flowing lava's scrolling speed. (Slightly jerky on one or two frames. Blame math.)
+-Tweaked still water animation to ripple slower and display proper surface dynamics.
+-Carved pumpkins worn on the head now provide mild nightvision at the cost of visual field of view.
+-Some depth has been added to the item slots on the menus to improve looks and make items stand out more.
+
+[1.4.5]
+-Animated lava has been greatly improved.
+
+[1.4]
+-Liquids have been animated in 64x64! (Be sure to check custom and animated lava and water!)
+-Animated liquids have been smoothed out to avoid jarring tiling issues.
+-Full biome grass support added. Looks best with BetterGrass.
+-The UI has had its item slots addressed. You should be able to see your darker items easier now. :)
+-Various minor texture tweaks.
+
+[1.3]
+-Water and Lava are unfortunately the default animated textures for now
+-Various texture tweaks: cloth, glowing stone, iron ore, and some others.
+-A minor bug fix on one of the gui files where transparency wasn't where it should've been.
+-New and currently unused resources for portals, liquids, and clocks.
+-Very minor tweaks to item icons.
+
+[1.2]
+-Quick addition of support for MrMMods SimpleMap + Ambient Occlusion
+
+[1.1]
+-High resolution armor and player models. (You need to play offline for the models to work.)
+-Higher biome color range for tree foliage.
+-Greyer, grittier, gravel.
+-Some added depth to ores and various other textures.
+-New lattice-free glass.
+-A few of the item icons have been tweaked slightly.
+-High resolution GUI indicators have been added. (Can't believe I missed these the first time!)
+
+[1.0]
+-This pack is 4x resolution (64x64) on nearly everything except for thinks like armor due to limitations and will require the HD texture fix patcher found here
+-Currently the armor in this is designed for a female, I plan to release a male version as soon as I catch up on some sleep.
+-Pack is fully compatible with current post-Halloween version.

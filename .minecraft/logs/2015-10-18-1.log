@@ -1,0 +1,35 @@
+[11:14:08] [Client thread/INFO]: Setting user: rcnerd
+[11:14:08] [Client thread/INFO]: (Session ID is token:d060d005c3694b75be666ae088a44974:2b14785b313c4c35ba883f2e95b9dcdd)
+[11:14:09] [Client thread/INFO]: LWJGL Version: 2.9.4
+[11:14:09] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[11:14:09] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:14:09] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[11:14:09] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:14:09] [Thread-6/INFO]: OpenAL initialized.
+[11:14:10] [Sound Library Loader/INFO]: Sound engine started
+[11:14:17] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[11:14:21] [Server thread/INFO]: Starting integrated minecraft server version 1.8.8
+[11:14:21] [Server thread/INFO]: Generating keypair
+[11:14:22] [Server thread/INFO]: Preparing start region for level 0
+[11:14:22] [Server thread/INFO]: Changing view distance to 16, from 10
+[11:14:22] [Server thread/INFO]: rcnerd[local:E:0ee678bb] logged in with entity id 695 at (237.2898235835242, 40.0, 250.05732674585687)
+[11:14:22] [Server thread/INFO]: rcnerd joined the game
+[11:14:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2013ms behind, skipping 40 tick(s)
+[11:14:44] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[11:14:46] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[11:14:46] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[11:14:46] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[11:14:49] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[11:14:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6198ms behind, skipping 123 tick(s)
+[11:18:59] [Server thread/WARN]: rcnerd moved wrongly!
+[11:25:48] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[11:25:53] [Server thread/INFO]: Saving and pausing game...
+[11:25:53] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[11:25:53] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[11:25:53] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
+[11:25:55] [Server thread/INFO]: Stopping server
+[11:25:55] [Server thread/INFO]: Saving players
+[11:25:55] [Server thread/INFO]: Saving worlds
+[11:25:55] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Overworld
+[11:25:55] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/Nether
+[11:25:55] [Server thread/INFO]: Saving chunks for level 'Let's play world(test)'/The End
