@@ -14,8 +14,8 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Misa Patch Les 1.8","Misa-converted-1389576244633"]
-incompatibleResourcePacks:["Misa Patch Les 1.8","Misa-converted-1389576244633"]
+resourcePacks:["Misa-converted-1389576244633","Misa Patch Les 1.8"]
+incompatibleResourcePacks:["Misa-converted-1389576244633","Misa Patch Les 1.8"]
 lastServer:255.255.255.0
 lang:en_US
 chatVisibility:0
