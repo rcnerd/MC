@@ -2,6 +2,7 @@
   "profiles": {
     "rcnerd": {
       "name": "rcnerd",
+      "lastVersionId": "1.8.9",
       "javaArgs": "-Xmx6G -Xms6G"
     }
   },
@@ -10,7 +11,7 @@
   "authenticationDatabase": {
     "2b14785b313c4c35ba883f2e95b9dcdd": {
       "displayName": "rcnerd",
-      "accessToken": "eda2374db8f9466eb8558732837e3c52",
+      "accessToken": "96c4b43923544d588f1f9ef4327c22cc",
       "userid": "a09f09002b9245fc8c0b7da6f8cd6911",
       "uuid": "2b14785b-313c-4c35-ba88-3f2e95b9dcdd",
       "username": "hunter.g.wells@gmail.com"
