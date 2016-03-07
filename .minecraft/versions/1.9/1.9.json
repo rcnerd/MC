@@ -1,6 +1,6 @@
 {
   "id": "1.9",
-  "time": "2016-02-29T08:50:46-05:00",
+  "time": "2016-03-07T09:38:03-05:00",
   "releaseTime": "2016-02-29T08:49:54-05:00",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
@@ -196,12 +196,12 @@
       }
     },
     {
-      "name": "com.mojang:realms:1.8.3",
+      "name": "com.mojang:realms:1.8.6",
       "downloads": {
         "artifact": {
-          "url": "https://libraries.minecraft.net/com/mojang/realms/1.8.3/realms-1.8.3.jar",
-          "sha1": "681fde0b7861ffa8d9b6742349c86a880676489b",
-          "size": 1131533
+          "url": "https://libraries.minecraft.net/com/mojang/realms/1.8.6/realms-1.8.6.jar",
+          "sha1": "954c8dd1cfd94c219b19aa5838873ceb709e5892",
+          "size": 1132572
         }
       }
     },
