@@ -467,3 +467,377 @@ com.mojang.realmsclient.exception.RealmsServiceException: Could not connect to R
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_25]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_25]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[19:08:55] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:08:55] [Server thread/INFO]: Generating keypair
+[19:08:55] [Server thread/INFO]: Preparing start region for level 0
+[19:08:56] [Server thread/INFO]: Preparing spawn area: 19%
+[19:08:57] [Server thread/INFO]: Preparing spawn area: 35%
+[19:08:58] [Server thread/INFO]: Preparing spawn area: 52%
+[19:08:59] [Server thread/INFO]: Preparing spawn area: 71%
+[19:09:00] [Server thread/INFO]: Preparing spawn area: 88%
+[19:09:01] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:09:01] [Server thread/INFO]: rcnerd[local:E:03545e25] logged in with entity id 269790 at (241.5, 70.0, 254.5)
+[19:09:01] [Server thread/INFO]: rcnerd joined the game
+[19:09:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2945ms behind, skipping 58 tick(s)
+[19:09:15] [Server thread/INFO]: Saving and pausing game...
+[19:09:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:09:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:09:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:10:49] [Server thread/INFO]: rcnerd has just earned the achievement [Taking Inventory]
+[19:10:50] [Client thread/INFO]: [CHAT] rcnerd has just earned the achievement [Taking Inventory]
+[19:10:51] [Server thread/INFO]: Saving and pausing game...
+[19:10:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:10:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:10:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:11:09] [Server thread/INFO]: Stopping server
+[19:11:09] [Server thread/INFO]: Saving players
+[19:11:09] [Server thread/INFO]: Saving worlds
+[19:11:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:11:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:11:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:11:21] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:11:21] [Server thread/INFO]: Generating keypair
+[19:11:21] [Server thread/INFO]: Preparing start region for level 0
+[19:11:22] [Server thread/INFO]: Preparing spawn area: 20%
+[19:11:23] [Server thread/INFO]: Preparing spawn area: 38%
+[19:11:24] [Server thread/INFO]: Preparing spawn area: 57%
+[19:11:25] [Server thread/INFO]: Preparing spawn area: 78%
+[19:11:26] [Server thread/INFO]: Preparing spawn area: 99%
+[19:11:26] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:11:26] [Server thread/INFO]: rcnerd[local:E:e9f73b4d] logged in with entity id 282225 at (237.5, 72.0, 252.5)
+[19:11:26] [Server thread/INFO]: rcnerd joined the game
+[19:11:28] [Server thread/INFO]: Saving and pausing game...
+[19:11:28] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Overworld
+[19:11:30] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Nether
+[19:11:30] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/The End
+[19:11:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3481ms behind, skipping 69 tick(s)
+[19:11:40] [Client thread/INFO]: [CHAT] Seed: 2101544389991045244
+[19:12:12] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 444.5, 125.6308523456343, -67.5]
+[19:12:12] [Client thread/INFO]: [CHAT] Teleported rcnerd to 444.5, 125.6308523456343, -67.5
+[19:12:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2191ms behind, skipping 43 tick(s)
+[19:12:34] [Server thread/INFO]: Saving and pausing game...
+[19:12:34] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Overworld
+[19:12:34] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Nether
+[19:12:34] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/The End
+[19:12:35] [Server thread/INFO]: Stopping server
+[19:12:35] [Server thread/INFO]: Saving players
+[19:12:35] [Server thread/INFO]: Saving worlds
+[19:12:35] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Overworld
+[19:12:36] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Nether
+[19:12:36] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/The End
+[19:12:42] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:12:42] [Server thread/INFO]: Generating keypair
+[19:12:42] [Server thread/INFO]: Preparing start region for level 0
+[19:12:42] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:12:42] [Server thread/INFO]: rcnerd[local:E:24764313] logged in with entity id 292360 at (444.5, 125.6308523456343, -67.5)
+[19:12:42] [Server thread/INFO]: rcnerd joined the game
+[19:12:44] [Server thread/INFO]: Saving and pausing game...
+[19:12:44] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Overworld
+[19:12:44] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Nether
+[19:12:44] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/The End
+[19:12:53] [Server thread/INFO]: Saving and pausing game...
+[19:12:53] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Overworld
+[19:12:53] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Nether
+[19:12:53] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/The End
+[19:12:54] [Server thread/INFO]: Stopping server
+[19:12:54] [Server thread/INFO]: Saving players
+[19:12:54] [Server thread/INFO]: Saving worlds
+[19:12:54] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Overworld
+[19:12:54] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/Nether
+[19:12:54] [Server thread/INFO]: Saving chunks for level 'Copy of New World'/The End
+[19:12:57] [Client thread/INFO]: Deleting level Copy of New World
+[19:12:57] [Client thread/INFO]: Attempt 1...
+[19:12:59] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:12:59] [Server thread/INFO]: Generating keypair
+[19:12:59] [Server thread/INFO]: Preparing start region for level 0
+[19:12:59] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:13:00] [Server thread/INFO]: rcnerd[local:E:ebd610e4] logged in with entity id 293168 at (241.5, 140.62606178500687, 254.5)
+[19:13:00] [Server thread/INFO]: rcnerd joined the game
+[19:13:10] [Server thread/INFO]: Saving and pausing game...
+[19:13:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:13:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:13:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:13:11] [Server thread/INFO]: Stopping server
+[19:13:11] [Server thread/INFO]: Saving players
+[19:13:11] [Server thread/INFO]: Saving worlds
+[19:13:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:13:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:13:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:13:14] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:13:14] [Server thread/INFO]: Generating keypair
+[19:13:14] [Server thread/INFO]: Preparing start region for level 0
+[19:13:15] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:13:15] [Server thread/INFO]: rcnerd[local:E:826237cd] logged in with entity id 293907 at (241.5, 140.62606178500687, 254.5)
+[19:13:15] [Server thread/INFO]: rcnerd joined the game
+[19:13:17] [Server thread/INFO]: Saving and pausing game...
+[19:13:17] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:13:17] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:13:17] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:13:19] [Client thread/INFO]: [CHAT] Seed: -2101544389991045244
+[19:13:20] [Server thread/INFO]: Saving and pausing game...
+[19:13:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:13:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:13:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:13:22] [Server thread/INFO]: Stopping server
+[19:13:22] [Server thread/INFO]: Saving players
+[19:13:22] [Server thread/INFO]: Saving worlds
+[19:13:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:13:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:13:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:13:25] [Client thread/INFO]: Deleting level New World--------
+[19:13:25] [Client thread/INFO]: Attempt 1...
+[19:13:27] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:13:27] [Server thread/INFO]: Generating keypair
+[19:13:27] [Server thread/INFO]: Preparing start region for level 0
+[19:13:27] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:13:27] [Server thread/INFO]: rcnerd[local:E:92e942d9] logged in with entity id 294573 at (5.5, 95.18292559064179, 136.5)
+[19:13:27] [Server thread/INFO]: rcnerd joined the game
+[19:13:30] [Server thread/INFO]: Saving and pausing game...
+[19:13:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:13:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:13:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:13:36] [Server thread/INFO]: Saving and pausing game...
+[19:13:36] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:13:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:13:36] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:25:04] [Server thread/INFO]: Stopping server
+[19:25:04] [Server thread/INFO]: Saving players
+[19:25:04] [Server thread/INFO]: Saving worlds
+[19:25:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:25:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:25:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:36:42] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:36:42] [Server thread/INFO]: Generating keypair
+[19:36:42] [Server thread/INFO]: Preparing start region for level 0
+[19:36:43] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:36:43] [Server thread/INFO]: rcnerd[local:E:51e3dea2] logged in with entity id 295054 at (5.5, 95.18292559064179, 136.5)
+[19:36:43] [Server thread/INFO]: rcnerd joined the game
+[19:36:45] [Server thread/INFO]: Saving and pausing game...
+[19:36:45] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:36:45] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:36:45] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:39:58] [Server thread/INFO]: rcnerd fell out of the world
+[19:39:58] [Server thread/INFO]: [rcnerd: Killed rcnerd]
+[19:39:58] [Client thread/INFO]: [CHAT] rcnerd fell out of the world
+[19:39:58] [Client thread/INFO]: [CHAT] Killed rcnerd
+[19:40:55] [Server thread/INFO]: Saving and pausing game...
+[19:40:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:40:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:40:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:41:24] [Server thread/INFO]: Changing view distance to 24, from 16
+[19:42:05] [Server thread/INFO]: Saving and pausing game...
+[19:42:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:42:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:42:05] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:43:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3270ms behind, skipping 65 tick(s)
+[19:43:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5663ms behind, skipping 113 tick(s)
+[19:44:35] [Server thread/INFO]: Saving and pausing game...
+[19:44:35] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:44:35] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:44:35] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:45:23] [Server thread/INFO]: Saving and pausing game...
+[19:45:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:45:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:45:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:45:42] [Server thread/INFO]: Saving and pausing game...
+[19:45:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:45:43] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:45:43] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:46:05] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 62.5, 143.86813802185674, -209.5]
+[19:46:05] [Client thread/INFO]: [CHAT] Teleported rcnerd to 62.5, 143.86813802185674, -209.5
+[19:46:10] [Server thread/INFO]: Saving and pausing game...
+[19:46:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:46:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:46:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:46:37] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 104.5, 143.86813802185674, 58.5]
+[19:46:37] [Client thread/INFO]: [CHAT] Teleported rcnerd to 104.5, 143.86813802185674, 58.5
+[19:46:51] [Server thread/INFO]: Saving and pausing game...
+[19:46:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:46:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:46:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:47:21] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 202.5, 150.98746994618156, -388.5]
+[19:47:21] [Client thread/INFO]: [CHAT] Teleported rcnerd to 202.5, 150.98746994618156, -388.5
+[19:47:37] [Server thread/INFO]: Saving and pausing game...
+[19:47:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:47:37] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:47:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:47:47] [Server thread/INFO]: [rcnerd: Teleported rcnerd to -201.5, 150.98746994618156, -388.5]
+[19:47:47] [Client thread/INFO]: [CHAT] Teleported rcnerd to -201.5, 150.98746994618156, -388.5
+[19:47:51] [Server thread/INFO]: Saving and pausing game...
+[19:47:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:47:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:47:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:48:16] [Server thread/INFO]: [rcnerd: Teleported rcnerd to -378.5, 150.98746994618156, 192.5]
+[19:48:16] [Client thread/INFO]: [CHAT] Teleported rcnerd to -378.5, 150.98746994618156, 192.5
+[19:48:21] [Server thread/INFO]: Saving and pausing game...
+[19:48:21] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:48:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:48:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:48:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3663ms behind, skipping 73 tick(s)
+[19:48:52] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 603.5, 150.98746994618156, 67.5]
+[19:48:52] [Client thread/INFO]: [CHAT] Teleported rcnerd to 603.5, 150.98746994618156, 67.5
+[19:48:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4383ms behind, skipping 87 tick(s)
+[19:49:37] [Server thread/INFO]: Saving and pausing game...
+[19:49:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:49:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:49:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:49:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14972ms behind, skipping 299 tick(s)
+[19:50:05] [Server thread/INFO]: [rcnerd: Teleported rcnerd to -348.5, 135.6829269615486, -801.5]
+[19:50:05] [Client thread/INFO]: [CHAT] Teleported rcnerd to -348.5, 135.6829269615486, -801.5
+[19:50:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4558ms behind, skipping 91 tick(s)
+[19:50:21] [Server thread/INFO]: rcnerd fell out of the world
+[19:50:21] [Server thread/INFO]: [rcnerd: Killed rcnerd]
+[19:50:21] [Client thread/INFO]: [CHAT] rcnerd fell out of the world
+[19:50:21] [Client thread/INFO]: [CHAT] Killed rcnerd
+[19:50:49] [Server thread/INFO]: Saving and pausing game...
+[19:50:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:50:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:50:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:51:37] [Server thread/INFO]: Saving and pausing game...
+[19:51:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:51:37] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:51:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:52:18] [Server thread/INFO]: Changing view distance to 16, from 24
+[19:54:14] [Server thread/INFO]: Saving and pausing game...
+[19:54:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:54:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:54:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:54:35] [Server thread/INFO]: Saving and pausing game...
+[19:54:35] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:54:35] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:54:35] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:54:48] [Server thread/INFO]: Saving and pausing game...
+[19:54:48] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:54:48] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:54:48] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:58:12] [Server thread/INFO]: Saving and pausing game...
+[19:58:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:58:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:58:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:00:03] [Server thread/INFO]: Saving and pausing game...
+[20:00:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:00:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:00:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:05:11] [Server thread/INFO]: Saving and pausing game...
+[20:05:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:05:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:05:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:05:34] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 67.30000001192093, 27.0, -219.69999998807907]
+[20:05:34] [Client thread/INFO]: [CHAT] Teleported rcnerd to 67.30000001192093, 27.0, -219.69999998807907
+[20:06:05] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 67.5, 27.0, -218.5]
+[20:06:05] [Client thread/INFO]: [CHAT] Teleported rcnerd to 67.5, 27.0, -218.5
+[20:06:17] [Client thread/INFO]: [CHAT] '27+100' is not a valid number
+[20:06:30] [Client thread/INFO]: [CHAT] '(27+100)' is not a valid number
+[20:06:40] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 67.5, 127.0, -218.5]
+[20:06:40] [Client thread/INFO]: [CHAT] Teleported rcnerd to 67.5, 127.0, -218.5
+[20:06:58] [Server thread/INFO]: Saving and pausing game...
+[20:06:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:06:59] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:06:59] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:08:39] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 100.11062387907678, 26.0, 52.60315619145083]
+[20:08:39] [Client thread/INFO]: [CHAT] Teleported rcnerd to 100.11062387907678, 26.0, 52.60315619145083
+[20:09:10] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 100.5, 26.0, 52.5]
+[20:09:10] [Client thread/INFO]: [CHAT] Teleported rcnerd to 100.5, 26.0, 52.5
+[20:09:37] [Server thread/INFO]: [rcnerd: Teleported rcnerd to 100.5, 126.0, 52.5]
+[20:09:37] [Client thread/INFO]: [CHAT] Teleported rcnerd to 100.5, 126.0, 52.5
+[20:12:47] [Server thread/INFO]: Saving and pausing game...
+[20:12:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:12:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:12:47] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:18:45] [Server thread/INFO]: Saving and pausing game...
+[20:18:45] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:18:45] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:18:45] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:20:58] [Server thread/INFO]: Saving and pausing game...
+[20:20:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:20:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:20:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:26:41] [Server thread/INFO]: Saving and pausing game...
+[20:26:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:26:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:26:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:26:45] [Server thread/INFO]: Stopping server
+[20:26:45] [Server thread/INFO]: Saving players
+[20:26:45] [Server thread/INFO]: Saving worlds
+[20:26:45] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:26:45] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:26:45] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:28:17] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[20:28:17] [Server thread/INFO]: Generating keypair
+[20:28:17] [Server thread/INFO]: Preparing start region for level 0
+[20:28:18] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:28:18] [Server thread/INFO]: rcnerd[local:E:85190177] logged in with entity id 543357 at (-7.943919513664649, 105.30792587376385, 152.3836149838687)
+[20:28:18] [Server thread/INFO]: rcnerd joined the game
+[20:28:26] [Server thread/INFO]: Saving and pausing game...
+[20:28:26] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:28:26] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:28:26] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:28:28] [Server thread/INFO]: Stopping server
+[20:28:28] [Server thread/INFO]: Saving players
+[20:28:28] [Server thread/INFO]: Saving worlds
+[20:28:28] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:28:28] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:28:28] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:28:40] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[20:28:40] [Server thread/INFO]: Generating keypair
+[20:28:40] [Server thread/INFO]: Preparing start region for level 0
+[20:28:41] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:28:41] [Server thread/INFO]: rcnerd[local:E:69acec23] logged in with entity id 543887 at (-7.94391951366465, 105.30792587376385, 152.3836149838687)
+[20:28:41] [Server thread/INFO]: rcnerd joined the game
+[20:28:43] [Server thread/INFO]: Saving and pausing game...
+[20:28:43] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:28:43] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:28:43] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:28:46] [Server thread/INFO]: Saving and pausing game...
+[20:28:46] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:28:46] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:28:46] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:28:48] [Server thread/INFO]: Stopping server
+[20:28:48] [Server thread/INFO]: Saving players
+[20:28:48] [Server thread/INFO]: Saving worlds
+[20:28:48] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:28:48] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:28:48] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:28:53] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[20:28:53] [Server thread/INFO]: Generating keypair
+[20:28:53] [Server thread/INFO]: Preparing start region for level 0
+[20:28:53] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:28:53] [Server thread/INFO]: rcnerd[local:E:d5863880] logged in with entity id 544345 at (-7.94391951366465, 105.30792587376385, 152.3836149838687)
+[20:28:53] [Server thread/INFO]: rcnerd joined the game
+[20:28:56] [Server thread/INFO]: Saving and pausing game...
+[20:28:56] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:28:56] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:28:56] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:29:09] [Server thread/INFO]: Saving and pausing game...
+[20:29:09] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:29:09] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:29:09] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:29:12] [Server thread/INFO]: Stopping server
+[20:29:12] [Server thread/INFO]: Saving players
+[20:29:12] [Server thread/INFO]: Saving worlds
+[20:29:12] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:29:12] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:29:12] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:29:21] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[20:29:21] [Server thread/INFO]: Generating keypair
+[20:29:21] [Server thread/INFO]: Preparing start region for level 0
+[20:29:21] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:29:21] [Server thread/INFO]: rcnerd[local:E:462461c2] logged in with entity id 545185 at (39.872667752609274, 105.30792587376385, 97.31572858908045)
+[20:29:21] [Server thread/INFO]: rcnerd joined the game
+[20:29:24] [Server thread/INFO]: Saving and pausing game...
+[20:29:24] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:29:24] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:29:24] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:29:27] [Server thread/INFO]: Saving and pausing game...
+[20:29:27] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:29:27] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:29:27] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:29:28] [Server thread/INFO]: Stopping server
+[20:29:28] [Server thread/INFO]: Saving players
+[20:29:28] [Server thread/INFO]: Saving worlds
+[20:29:28] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[20:29:28] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[20:29:28] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[20:29:42] [Client thread/INFO]: Stopping!
+[20:29:42] [Client thread/INFO]: SoundSystem shutting down...
+[20:29:42] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
