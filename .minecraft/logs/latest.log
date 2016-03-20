@@ -1,13 +1,84 @@
-[16:09:49] [Client thread/INFO]: Setting user: rcnerd
-[16:09:49] [Client thread/INFO]: (Session ID is token:130909aa4a7d4e0d82ef1c5a4b38ba6d:2b14785b313c4c35ba883f2e95b9dcdd)
-[16:09:50] [Client thread/INFO]: LWJGL Version: 2.9.4
-[16:09:50] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
-[16:09:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:09:51] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[16:09:51] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:09:51] [Thread-5/INFO]: OpenAL initialized.
-[16:09:52] [Sound Library Loader/INFO]: Sound engine started
-[16:09:52] [Client thread/INFO]: Created: 4096x2048 textures-atlas
-[16:10:04] [Client thread/INFO]: Stopping!
-[16:10:04] [Client thread/INFO]: SoundSystem shutting down...
-[16:10:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:18:22] [Client thread/INFO]: Setting user: rcnerd
+[18:18:22] [Client thread/INFO]: (Session ID is token:9412297e7adf47c88a1c7b14530f61e3:2b14785b313c4c35ba883f2e95b9dcdd)
+[18:18:23] [Client thread/INFO]: LWJGL Version: 2.9.4
+[18:18:23] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[18:18:24] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:18:24] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[18:18:24] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:18:24] [Thread-5/INFO]: OpenAL initialized.
+[18:18:24] [Sound Library Loader/INFO]: Sound engine started
+[18:18:25] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[18:18:34] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[18:18:34] [Server thread/INFO]: Generating keypair
+[18:18:34] [Server thread/INFO]: Preparing start region for level 0
+[18:18:35] [Server thread/INFO]: Changing view distance to 16, from 10
+[18:18:35] [Server thread/INFO]: rcnerd[local:E:2c913152] logged in with entity id 248 at (51.68186808692136, 60.0, 53.312342104176324)
+[18:18:35] [Server thread/INFO]: rcnerd joined the game
+[18:18:36] [Server thread/INFO]: Saving and pausing game...
+[18:18:36] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:18:36] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:18:36] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:21:45] [Server thread/INFO]: Saving and pausing game...
+[18:21:45] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:21:45] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:21:45] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:22:22] [Server thread/INFO]: Saving and pausing game...
+[18:22:22] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:22:22] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:22:22] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:22:23] [Server thread/INFO]: Stopping server
+[18:22:23] [Server thread/INFO]: Saving players
+[18:22:23] [Server thread/INFO]: Saving worlds
+[18:22:23] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:22:23] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:22:23] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:26:45] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[18:26:45] [Server thread/INFO]: Generating keypair
+[18:26:45] [Server thread/INFO]: Preparing start region for level 0
+[18:26:45] [Server thread/INFO]: rcnerd[local:E:d7d02fe3] logged in with entity id 4094 at (51.55232233466496, 14.0, 7.699999988079076)
+[18:26:45] [Server thread/INFO]: rcnerd joined the game
+[18:26:45] [Server thread/INFO]: Changing view distance to 16, from 10
+[18:27:40] [Client thread/INFO]: [CHAT] Saved screenshot as 2016-03-20_18.27.39.png
+[18:42:47] [Server thread/INFO]: rcnerd was shot by Skeleton
+[18:42:47] [Client thread/INFO]: [CHAT] rcnerd was shot by Skeleton
+[18:45:16] [Server thread/INFO]: Saving and pausing game...
+[18:45:16] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:45:16] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:45:16] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:45:21] [Client thread/INFO]: Using default channel type
+[18:45:21] [Client thread/INFO]: Started on 51470
+[18:45:21] [Client thread/INFO]: [CHAT] Local game hosted on port 51470
+[18:45:59] [Server thread/INFO]: rcnerd lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:45:59] [Server thread/INFO]: rcnerd left the game
+[18:45:59] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:45:59] [Server thread/INFO]: Stopping server
+[18:45:59] [Server thread/INFO]: Saving players
+[18:45:59] [Server thread/INFO]: Saving worlds
+[18:45:59] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:45:59] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:45:59] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:46:02] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[18:46:02] [Server thread/INFO]: Generating keypair
+[18:46:02] [Server thread/INFO]: Preparing start region for level 0
+[18:46:02] [Server thread/INFO]: Changing view distance to 16, from 10
+[18:46:02] [Server thread/INFO]: rcnerd[local:E:48be44e0] logged in with entity id 24788 at (51.13749998807907, 67.0, 63.30000001192101)
+[18:46:02] [Server thread/INFO]: rcnerd joined the game
+[18:46:05] [Server thread/INFO]: Saving and pausing game...
+[18:46:05] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:46:05] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:46:05] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:46:07] [Client thread/INFO]: Using default channel type
+[18:46:07] [Client thread/INFO]: Started on 51493
+[18:46:07] [Client thread/INFO]: [CHAT] Local game hosted on port 51493
+[18:46:56] [Server thread/INFO]: rcnerd lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:46:56] [Server thread/INFO]: rcnerd left the game
+[18:46:56] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:46:56] [Server thread/INFO]: Stopping server
+[18:46:56] [Server thread/INFO]: Saving players
+[18:46:56] [Server thread/INFO]: Saving worlds
+[18:46:56] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[18:46:56] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[18:46:56] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[18:56:01] [Client thread/INFO]: Stopping!
+[18:56:01] [Client thread/INFO]: SoundSystem shutting down...
+[18:56:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
