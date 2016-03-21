@@ -1,13 +1,101 @@
-[18:56:36] [Client thread/INFO]: Setting user: rcnerd
-[18:56:36] [Client thread/INFO]: (Session ID is token:9412297e7adf47c88a1c7b14530f61e3:2b14785b313c4c35ba883f2e95b9dcdd)
-[18:56:37] [Client thread/INFO]: LWJGL Version: 2.9.4
-[18:56:37] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
-[18:56:38] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[18:56:38] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[18:56:38] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[18:56:38] [Thread-5/INFO]: OpenAL initialized.
-[18:56:38] [Sound Library Loader/INFO]: Sound engine started
-[18:56:39] [Client thread/INFO]: Created: 4096x2048 textures-atlas
-[18:56:45] [Client thread/INFO]: Stopping!
-[18:56:45] [Client thread/INFO]: SoundSystem shutting down...
-[18:56:45] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:22:25] [Client thread/INFO]: Setting user: rcnerd
+[19:22:25] [Client thread/INFO]: (Session ID is token:9412297e7adf47c88a1c7b14530f61e3:2b14785b313c4c35ba883f2e95b9dcdd)
+[19:22:26] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:22:27] [Client thread/INFO]: Reloading ResourceManager: Default, Misa-converted-1389576244633, Misa Patch Les 1.8
+[19:22:27] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:22:28] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[19:22:28] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:22:28] [Thread-5/INFO]: OpenAL initialized.
+[19:22:28] [Sound Library Loader/INFO]: Sound engine started
+[19:22:29] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[19:22:59] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:22:59] [Server thread/INFO]: Generating keypair
+[19:22:59] [Server thread/INFO]: Preparing start region for level 0
+[19:23:00] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:23:01] [Server thread/INFO]: rcnerd[local:E:6a51e4dd] logged in with entity id 254 at (40.1443786385788, 78.06896360279146, 68.46623108019847)
+[19:23:01] [Server thread/INFO]: rcnerd joined the game
+[19:23:01] [Server thread/INFO]: Saving and pausing game...
+[19:23:01] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:23:02] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:23:02] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:23:57] [Server thread/INFO]: Saving and pausing game...
+[19:23:57] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:23:57] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:23:57] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:24:34] [Server thread/INFO]: Saving and pausing game...
+[19:24:34] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:24:34] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:24:34] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:24:35] [Server thread/INFO]: Stopping server
+[19:24:35] [Server thread/INFO]: Saving players
+[19:24:35] [Server thread/INFO]: Saving worlds
+[19:24:35] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:24:35] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:24:35] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:25:10] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:25:10] [Server thread/INFO]: Generating keypair
+[19:25:10] [Server thread/INFO]: Preparing start region for level 0
+[19:25:11] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:25:11] [Server thread/INFO]: rcnerd[local:E:8ecd0531] logged in with entity id 6821 at (20.351102197313043, 76.12605946248641, 72.73026720371226)
+[19:25:11] [Server thread/INFO]: rcnerd joined the game
+[19:26:12] [Server thread/INFO]: Saving and pausing game...
+[19:26:12] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:26:12] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:26:12] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:26:13] [Server thread/INFO]: Stopping server
+[19:26:13] [Server thread/INFO]: Saving players
+[19:26:13] [Server thread/INFO]: Saving worlds
+[19:26:13] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:26:13] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:26:13] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:27:31] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:27:31] [Server thread/INFO]: Generating keypair
+[19:27:31] [Server thread/INFO]: Preparing start region for level 0
+[19:27:31] [Server thread/INFO]: rcnerd[local:E:ae8791b8] logged in with entity id 9355 at (44.48750001192093, 66.0, 66.94008497630594)
+[19:27:31] [Server thread/INFO]: rcnerd joined the game
+[19:27:31] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:27:58] [Server thread/INFO]: Saving and pausing game...
+[19:27:58] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:27:58] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:27:58] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:27:58] [Server thread/INFO]: Stopping server
+[19:27:58] [Server thread/INFO]: Saving players
+[19:27:58] [Server thread/INFO]: Saving worlds
+[19:27:58] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Overworld
+[19:27:58] [Server thread/INFO]: Saving chunks for level 'Next let's play'/Nether
+[19:27:58] [Server thread/INFO]: Saving chunks for level 'Next let's play'/The End
+[19:28:46] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[19:28:46] [Server thread/INFO]: Generating keypair
+[19:28:46] [Server thread/INFO]: Preparing start region for level 0
+[19:28:46] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:28:46] [Server thread/INFO]: rcnerd[local:E:40050bb1] logged in with entity id 10794 at (51.13749998807907, 67.0, 63.30000001192093)
+[19:28:46] [Server thread/INFO]: rcnerd joined the game
+[19:28:53] [Server thread/INFO]: Saving and pausing game...
+[19:28:53] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[19:28:53] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[19:28:53] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[19:31:33] [Client thread/INFO]: [CHAT] You can only sleep at night
+[19:57:13] [Client thread/ERROR]: Item entity 52049 has no item?!
+[19:57:13] [Client thread/ERROR]: Item entity 52049 has no item?!
+[19:57:48] [Server thread/INFO]: rcnerd has just earned the achievement [Benchmarking]
+[19:57:48] [Client thread/INFO]: [CHAT] rcnerd has just earned the achievement [Benchmarking]
+[20:03:32] [Client thread/ERROR]: Item entity 64704 has no item?!
+[20:03:32] [Client thread/ERROR]: Item entity 64704 has no item?!
+[20:09:11] [Client thread/ERROR]: Item entity 72930 has no item?!
+[20:09:11] [Client thread/ERROR]: Item entity 72930 has no item?!
+[20:10:35] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:10:39] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:10:40] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:15:26] [Server thread/INFO]: Saving and pausing game...
+[20:15:26] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[20:15:26] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[20:15:26] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[20:15:27] [Server thread/INFO]: Stopping server
+[20:15:27] [Server thread/INFO]: Saving players
+[20:15:27] [Server thread/INFO]: Saving worlds
+[20:15:27] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Overworld
+[20:15:27] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/Nether
+[20:15:27] [Server thread/INFO]: Saving chunks for level 'Mutual_Minecraft'/The End
+[20:15:28] [Client thread/INFO]: Stopping!
+[20:15:28] [Client thread/INFO]: SoundSystem shutting down...
+[20:15:28] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
